@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="Contact">
+    <title>Contacting IBM StoredIQ customer support</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ
+                customer support at this phone number:
+            </p>
+            <ul>
+                <li>1-866-227-2068</li>
+            </ul>
+            <p>Or, see the Contact IBM web site at http://www.ibm.com/contact/us/.</p>
+
+        </context>
+    </taskbody>
+</task>
