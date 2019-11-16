@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="applicationstack">
+    <title>Application stack</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ
+            Data Workbench, IBM StoredIQ Insights, and the IBM StoredIQ Policy Manager products.</p>
+        <p>The synchronization feature for integration with a governance catalog is also part of the application
+            stack.</p>
+    </conbody>
+</concept>

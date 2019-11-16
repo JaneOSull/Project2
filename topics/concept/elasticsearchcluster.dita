@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="elasticsearchcluster">
+    <title>Elasticsearch cluster</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The Elasticsearch cluster attached to a data server of the type DataServer - Distributed provides a
+            single data store for all metadata and content of harvested objects. Indexed data is distributed
+            automatically across the nodes in the cluster. Indexing and queries are load-balanced across all
+            nodes. Nodes can be added dynamically without downtime and the indexing process can use these
+            newly added nodes without further setup.</p>
+    </conbody>
+</concept>

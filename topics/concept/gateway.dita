@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Gateway">
+    <title>Gateway</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The gateway communicates between the data servers and the application stack. The application stack
+            polls the gateway for information about the data on the data servers. The data servers push the
+            information to the gateway.</p>
+    </conbody>
+</concept>

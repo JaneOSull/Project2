@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Project2</title>
+    <topicref href="topics/concept/about.dita">
+        <topicref href="topics/tasks/contact.dita"/>
+    </topicref>
+    <topicref href="topics/concept/solutioncomponents.dita">
+        <topicref href="topics/concept/gateway.dita"/>
+        <topicref href="topics/concept/dataservers.dita"/>
+        <topicref href="topics/concept/applicationstack.dita"/>
+        <topicref href="topics/concept/elasticsearchcluster.dita"/>
+    </topicref>
+</map>
