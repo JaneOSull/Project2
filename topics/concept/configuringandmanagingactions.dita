@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="configuringandmanagingactions">
+    <title>Configuring and managing actions:</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>An action is any process that is taken upon the data that is
+            represented by the indexes. Actions are run by data servers on indexed data objects. Any errors or
+            warnings that are generated as a result of an action are recorded as exceptions in IBM StoredIQ Data
+            Workbench.</p>
+        <note conref="sourceinfo.dita#n1"></note>
+    </conbody>
+</concept>

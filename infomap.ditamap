@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Information map</title>
+    <topicref href="topics/reference/sources.dita"></topicref>
+     <keydef keys="sources" href="topics/reference/sources.dita"></keydef>
+    <topicref href="topics/concept/configuringandmanagingactions.dita"></topicref>
+   <topicref href="topics/concept/applications.dita"></topicref>
+    <keydef keys="dashboard" href="resources/images/dashboard.JPG"></keydef>
+    <keydef keys="Applications" href="topics/concept/applications.dita"></keydef>
+    
+   
+    
+</map>

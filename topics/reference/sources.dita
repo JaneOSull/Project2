@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="sources">
+    <title>Source images</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <section>
+            <title>images</title>
+            <image href="../../resources/images/dashboard.JPG" id="dashboard"></image>
+            <image href="../../resources/images/storedIQadmin.JPG" id="admin"></image>
+            <image href="../../resources/images/workbench.JPG" id="workbench"></image>
+            <image href="../../resources/images/insights.JPG" id="insights"></image>
+            <image href="../../resources/images/policymanager.JPG" id="policymgr"></image>
+        </section>
+    </refbody>
+</reference>

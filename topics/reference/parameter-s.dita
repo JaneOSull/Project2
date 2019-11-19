@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="parameter-s">
+    <glossterm>-s</glossterm>
+    <glossdef>To list the current rules in iptables</glossdef>
+</glossentry>

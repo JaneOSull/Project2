@@ -15,6 +15,5 @@
     </meta>
     <projectTree name="Project2.xpr">
         <folder path="."/>
-        <file name="topics/tasks/applicationstack.dita"/>
     </projectTree>
 </project>

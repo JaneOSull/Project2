@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="creatingsysteminfosets">
+    <title>Creating system infosets:</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>System infosets that use only specific indexed volumes can be created and
+            managed within IBM StoredIQ Administrator. Although infosets are a core component of IBM StoredIQ
+            Data Workbench, system infosets are created as a shortcut for users in IBM StoredIQ Administrator.
+        </p>
+    </conbody>
+</concept>

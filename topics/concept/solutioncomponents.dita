@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="SolutionComponents">
-    <title>IBM StoredIQ components</title>
-    <shortdesc>The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data
-        server, and optionally the Elasticsearch cluster.</shortdesc>
+    <title>Solution components</title>
+    <shortdesc></shortdesc>
          <conbody> 
-        <section>
-            <title>Solution components</title>
-            <p>IBM StoredIQ provides three solution components: the gateway, data servers, and application stack
+         <p>IBM StoredIQ provides three solution components: the gateway, data servers, and application stack
                 (AppStack)</p>
-            <p><xref  href="gateway.dita"></xref></p>
-            <p><xref href="dataservers.dita"></xref></p>
-            <p><xref href="applicationstack.dita"></xref></p>
-            <p><xref href="elasticsearchcluster.dita"></xref></p>
-        </section>
-             <section>
-                 <title>Applications of IBM StoredIQ</title>
-                 <p>IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
-             </section>
-             <section>
-                 <title>IBM StoredIQ Data Server</title>
-                 <p>IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
-                     administrators to view the dashboard and see the status of the jobs and system details. Administrators
-                     can manage information about servers and conduct various configurations on the system and application
-                     settings.</p>
-                 <image href="/Users/Jane/Documents/Project2/resources/images/dashboard.JPG"></image>
-             </section>
+            
          </conbody>
     
 </concept>

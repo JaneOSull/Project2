@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="schedulingharvests">
+    <title>Scheduling harvests:</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Harvesting, which can also be referred to as indexing, is the process or task by
+            which IBM StoredIQ examines and classifies data in your network. Using IBM StoredIQ Administrator,
+            harvests can be scheduled, edited, and deleted.</p>
+    </conbody>
+</concept>

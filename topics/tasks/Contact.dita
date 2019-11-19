@@ -15,8 +15,15 @@
           
         </context>
         <section>
-            <title>IBM Knowledge Center</title>
+            <title><b>IBM Knowledge Center</b></title> <!-- need to make this a higher level title -->
             <p>The IBM StoredIQ documentation is available in IBM Knowledge Centre</p>
+        </section>
+        <section>
+            <title>Contacting IBM</title>
+            <p>For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer service in the
+                United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).</p>
+            <p>For more information about how to contact IBM, including TTY service, see the Contact
+                IBM website at http://www.ibm.com/contact/us/. </p>
         </section>
         
     </taskbody>

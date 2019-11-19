@@ -4,30 +4,65 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/Jane/Documents/Project2/Project2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Project2</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Project2</title>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about"><resourceid appid="about" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Contact"><resourceid appid="Contact" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="SolutionComponents"><resourceid appid="SolutionComponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data         server, and optionally the Elasticsearch cluster.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Gateway"><resourceid appid="Gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataservers"><resourceid appid="dataservers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Data Servers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applicationstack"><resourceid appid="applicationstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="elasticsearchcluster"><resourceid appid="elasticsearchcluster" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Elasticsearch cluster</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
-</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="about" oid="about">
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="sources"><resourceid appid="sources" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Source images</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><?ditaot gentext?><?ditaot genshortdesc?><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configuringandmanagingactions"><resourceid appid="configuringandmanagingactions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Configuring and managing actions:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Applications"><resourceid appid="Applications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc></topicmeta></topicref><?ditaot gentext?><?ditaot genshortdesc?>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About this publication"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e51">About this publication</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about"><resourceid appid="about" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Contact"><resourceid appid="Contact" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="IBM StoredIQ components"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e81">IBM StoredIQ components</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="SolutionComponents"><resourceid appid="SolutionComponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Applications"><resourceid appid="Applications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3_ssol1" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="viewingdataserversandvolumes"><resourceid appid="viewingdataserversandvolumes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Viewing data servers and volumes:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="schedulingharvests"><resourceid appid="schedulingharvests" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Scheduling harvests:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creatingsysteminfosets"><resourceid appid="creatingsysteminfosets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Creating system infosets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingusers"><resourceid appid="managingusers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Managing users:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configuringandmanagingactions"><resourceid appid="configuringandmanagingactions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2_ssol1" class="- topic/navtitle ">Configuring and managing actions:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingtargetsets"><resourceid appid="managingtargetsets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Managing target sets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="reports"><resourceid appid="reports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Reports:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="autoclassification"><resourceid appid="autoclassification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Auto-classification:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Cartridges"><resourceid appid="Cartridges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingconcepts"><resourceid appid="managingconcepts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Managing concepts:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingmulescripts"><resourceid appid="managingmulescripts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Managing Mule scripts</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverclassic"><resourceid appid="dataserverclassic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">DataServer - Classic:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverdistributed"><resourceid appid="dataserverdistributed" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">DataServer - Distributed:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="connectorapisdk"><resourceid appid="connectorapisdk" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Connector API SDK:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataworkbench"><resourceid appid="dataworkbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="insights"><resourceid appid="insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="policymanager"><resourceid appid="policymanager" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="desktopdatacollector"><resourceid appid="desktopdatacollector" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Planning for deployment" type="task"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e283">Planning for deployment</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_26" type="task"><topicmeta class="- map/topicmeta " data-topic-id="planningfordeployment"><resourceid appid="planningfordeployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Planning for Deployment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+  
+</opentopic:map><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="sources" oid="sources">
+    <title class="- topic/title ">Source images</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">images</title>
+            <image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/dashboard.JPG" id="unique_1_Connect_42_dashboard" nd:nd-id="dashboard" placement="inline"/>
+            <image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/storedIQadmin.JPG" id="unique_1_Connect_42_admin" nd:nd-id="admin" placement="inline"/>
+            <image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/workbench.JPG" id="unique_1_Connect_42_workbench" nd:nd-id="workbench" placement="inline"/>
+            <image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/insights.JPG" id="unique_1_Connect_42_insights" nd:nd-id="insights" placement="inline"/>
+            <image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/policymanager.JPG" id="unique_1_Connect_42_policymgr" nd:nd-id="policymgr" placement="inline"/>
+        </section>
+    </refbody>
+</reference><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="configuringandmanagingactions" oid="configuringandmanagingactions">
+    <title class="- topic/title ">Configuring and managing actions:</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">An action is any process that is taken upon the data that is
+            represented by the indexes. Actions are run by data servers on indexed data objects. Any errors or
+            warnings that are generated as a result of an action are recorded as exceptions in IBM StoredIQ Data
+            Workbench.</p>
+        <note class="- topic/note ">Actions can be created within IBM StoredIQ Administrator and then made available to other IBM
+                StoredIQ applications such as IBM StoredIQ Data Workbench.</note>
+    </conbody>
+</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Applications" oid="Applications">
+    <title class="- topic/title ">Applications of IBM StoredIQ</title>
+    <shortdesc class="- topic/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">IBM StoredIQ Data Server</title>
+            <p class="- topic/p ">IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
+                administrators to view the dashboard and see the status of the jobs and system details. Administrators
+                can manage information about servers and conduct various configurations on the system and application
+                settings.</p>
+            <fig class="- topic/fig "><image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/dashboard.JPG" placement="inline"/></fig>
+        </section>
+       
+       
+           </conbody>
+</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e51" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">About this publication</title><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="aboutpublication" oid="aboutpublication">
+    <title class="- topic/title "/>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Deployment and Configuration Guide</i> provides information about how to plan, deploy, and
+            configure the IBM StoredIQ product.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="about" oid="about">
     <title class="- topic/title ">About this publication</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Deployment and Configuration Guide</i> provides information about how to plan, deploy, and
             configure the IBM StoredIQ product.</p>
-        <section class="- topic/section ">
-            <title class="- topic/title ">IBM StoredIQ product library</title>
-            <p class="- topic/p ">The following documents are available in the IBM® StoredIQ® product library.</p>
-            <ul class="- topic/ul ">
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Overview Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Deployment and Configuration Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Data Server Administration Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Administrator Administration Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Data Workbench User Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Policy Manager User Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Insights User Guide</i></li>
-                <li class="- topic/li "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Integration Guide</i></li>
-            </ul>
-        </section>
     </conbody>
-<task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Contact" oid="Contact">
+</concept><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="Contact" oid="Contact">
     <title class="- topic/title ">Contacting IBM StoredIQ customer support</title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
@@ -42,82 +77,279 @@
           
         </context>
         <section class="- topic/section ">
-            <title class="- topic/title ">IBM Knowledge Center</title>
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">IBM Knowledge Center</b></title> 
             <p class="- topic/p ">The IBM StoredIQ documentation is available in IBM Knowledge Centre</p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Contacting IBM</title>
+            <p class="- topic/p ">For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer service in the
+                United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).</p>
+            <p class="- topic/p ">For more information about how to contact IBM, including TTY service, see the Contact
+                IBM website at http://www.ibm.com/contact/us/. </p>
         </section>
         
     </taskbody>
-</task></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="SolutionComponents" oid="SolutionComponents">
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e81" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">IBM StoredIQ components</title><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqcomponents" oid="ibmstorediqcomponents">
     <title class="- topic/title ">IBM StoredIQ components</title>
-    <shortdesc class="- topic/shortdesc ">The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data
-        server, and optionally the Elasticsearch cluster.</shortdesc>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data
+            server, and optionally the Elasticsearch cluster.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="SolutionComponents" oid="SolutionComponents">
+    <title class="- topic/title ">Solution components</title>
+    <shortdesc class="- topic/shortdesc "/>
          <conbody class="- topic/body  concept/conbody "> 
-        <section class="- topic/section ">
-            <title class="- topic/title ">Solution components</title>
-            <p class="- topic/p ">IBM StoredIQ provides three solution components: the gateway, data servers, and application stack
+         <p class="- topic/p ">IBM StoredIQ provides three solution components: the gateway, data servers, and application stack
                 (AppStack)</p>
-            <p class="- topic/p "><xref class="- topic/xref " href="#unique_4" type="concept"><?ditaot gentext?>Gateway</xref></p>
-            <p class="- topic/p "><xref class="- topic/xref " href="#unique_5" type="concept"><?ditaot gentext?>Data Servers</xref></p>
-            <p class="- topic/p "><xref class="- topic/xref " href="#unique_6" type="concept"><?ditaot gentext?>Application stack</xref></p>
-            <p class="- topic/p "><xref class="- topic/xref " href="#unique_7" type="concept"><?ditaot gentext?>Elasticsearch cluster</xref></p>
-        </section>
-             <section class="- topic/section ">
-                 <title class="- topic/title ">Applications of IBM StoredIQ</title>
-                 <p class="- topic/p ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
-             </section>
-             <section class="- topic/section ">
-                 <title class="- topic/title ">IBM StoredIQ Data Server</title>
-                 <p class="- topic/p ">IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
-                     administrators to view the dashboard and see the status of the jobs and system details. Administrators
-                     can manage information about servers and conduct various configurations on the system and application
-                     settings.</p>
-                 <image class="- topic/image " href="file:/Users/Jane/Documents/Project2/resources/images/dashboard.JPG" placement="inline"/>
-             </section>
+            
          </conbody>
     
-<concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="Gateway" oid="Gateway">
-    <title class="- topic/title ">Gateway</title>
+</concept><concept class="- topic/topic concept/concept " id="unique_3_ssol1" topicrefclass="- map/topicref " nd:nd-id="Applications" oid="Applications">
+    <title class="- topic/title ">Applications of IBM StoredIQ</title>
+    <shortdesc class="- topic/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">IBM StoredIQ Data Server</title>
+            <p class="- topic/p ">IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
+                administrators to view the dashboard and see the status of the jobs and system details. Administrators
+                can manage information about servers and conduct various configurations on the system and application
+                settings.</p>
+            <fig class="- topic/fig "><image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/dashboard.JPG" placement="inline"/></fig>
+        </section>
+       
+       
+           </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="viewingdataserversandvolumes" oid="viewingdataserversandvolumes">
+    <title class="- topic/title ">Viewing data servers and volumes:</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">The gateway communicates between the data servers and the application stack. The application stack
-            polls the gateway for information about the data on the data servers. The data servers push the
-            information to the gateway.</p>
+        <p class="- topic/p ">Using IBM StoredIQ Administrator, the Administrator can identify
+            what data servers are deployed, their location, what data is being managed, and the status of each data
+            server in the system. Volume management is a central component of IBM StoredIQ. IBM StoredIQ
+            Administrator also allows the Administrator to see what volumes are currently under management,
+            which data server is responsible for that volume, the state of the volume after indexing, and the amount
+            and size of information that is contained by each volume. Administrators can also add volumes to and
+            delete volumes from data servers through this interface.</p>
+        <p class="- topic/p ">If IBM StoredIQ is configured for integration with Information Governance Catalog, the Administrator
+            can also manage which volumes are published to the governance catalog.</p>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="dataservers" oid="dataservers">
-    <title class="- topic/title ">Data Servers</title>
+</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="schedulingharvests" oid="schedulingharvests">
+    <title class="- topic/title ">Scheduling harvests:</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">A data server obtains the data from supported data sources and indexes it. By indexing this data, you
-            gain information about unstructured data such as file size, file data types, file owners.</p>
-        <p class="- topic/p ">The data server pushes the information about volumes and indexes to the gateway so it can be
-            communicated to the application stack. Multiple data servers feed into a single gateway.</p>
-        <p class="- topic/p ">Data servers can be categorized in two types: DataServer - Classic and DataServer - Distributed. A
-            data server of the type DataServer - Classic uses the embedded PostgreSQL database for storing the
-            index. With a data server of the type DataServer - Distributed, the index is stored in an Elasticsearch
-            cluster. Data servers of this type also provide better performance in search queries. They can manage
-            much larger amounts of data than data servers of the type DataServer - Classic, thus making the IBM
-            StoredIQ deployments more scalable.</p>
-        <p class="- topic/p ">You can have both types of data servers in your IBM StoredIQ deployment.</p>
-        <p class="- topic/p ">In addition to completing standard administrative tasks, administrators can deploy the IBM StoredIQ
-            Desktop Data Collector and index desktops from the data server.</p>
+        <p class="- topic/p ">Harvesting, which can also be referred to as indexing, is the process or task by
+            which IBM StoredIQ examines and classifies data in your network. Using IBM StoredIQ Administrator,
+            harvests can be scheduled, edited, and deleted.</p>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="applicationstack" oid="applicationstack">
-    <title class="- topic/title ">Application stack</title>
+</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="creatingsysteminfosets" oid="creatingsysteminfosets">
+    <title class="- topic/title ">Creating system infosets:</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ
-            Data Workbench, IBM StoredIQ Insights, and the IBM StoredIQ Policy Manager products.</p>
-        <p class="- topic/p ">The synchronization feature for integration with a governance catalog is also part of the application
-            stack.</p>
+        <p class="- topic/p ">System infosets that use only specific indexed volumes can be created and
+            managed within IBM StoredIQ Administrator. Although infosets are a core component of IBM StoredIQ
+            Data Workbench, system infosets are created as a shortcut for users in IBM StoredIQ Administrator.
+        </p>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="elasticsearchcluster" oid="elasticsearchcluster">
-    <title class="- topic/title ">Elasticsearch cluster</title>
+</concept><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="managingusers" oid="managingusers">
+    <title class="- topic/title ">Managing users:</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">The Elasticsearch cluster attached to a data server of the type DataServer - Distributed provides a
-            single data store for all metadata and content of harvested objects. Indexed data is distributed
-            automatically across the nodes in the cluster. Indexing and queries are load-balanced across all
-            nodes. Nodes can be added dynamically without downtime and the indexing process can use these
-            newly added nodes without further setup.</p>
+        <p class="- topic/p ">The user management area allows administrators to create users and manage users'
+            access to the various IBM StoredIQ applications.</p>
     </conbody>
-</concept></concept></map>
+</concept><concept class="- topic/topic concept/concept " id="unique_2_ssol1" topicrefclass="- map/topicref " nd:nd-id="configuringandmanagingactions" oid="configuringandmanagingactions">
+    <title class="- topic/title ">Configuring and managing actions:</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">An action is any process that is taken upon the data that is
+            represented by the indexes. Actions are run by data servers on indexed data objects. Any errors or
+            warnings that are generated as a result of an action are recorded as exceptions in IBM StoredIQ Data
+            Workbench.</p>
+        <note class="- topic/note ">Actions can be created within IBM StoredIQ Administrator and then made available to other IBM
+                StoredIQ applications such as IBM StoredIQ Data Workbench.</note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="managingtargetsets" oid="managingtargetsets">
+    <title class="- topic/title ">Managing target sets:</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Provides an interface that allows the user to set the wanted targets for specific
+            actions that require a destination volume for their actions.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="reports" oid="reports">
+    <title class="- topic/title ">Reports:</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">IBM StoredIQ Administrator provides a number of built-in reports, such as summaries of data
+            objects in the system, storage use, and the number of identical documents in the system. You can
+            create custom reports, including Query Analysis Reports for e-discovery purposes, and automatically
+            email report notifications to administrators and other interested parties.</p>
+    </conbody>
+</concept><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="autoclassification" oid="autoclassification">
+    <glossterm class="- topic/title concept/title glossentry/glossterm ">Auto-classification:</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Automated document categorization, what IBM StoredIQ refers to as autoclassification
+        models, integrates the IBM® Content Classification's classification model into the IBM
+        StoredIQ infoset-generation process. Data Experts can use IBM Content Classification to train a
+        classification model, which is then registered with IBM StoredIQ Administrator. The registered
+        classification model can be applied to an existing infoset in IBM StoredIQ Data Workbench to generate
+        new metadata for the objects in the infoset. Metadata can be used in rule-based filters to create new
+        infosets.</glossdef>
+</glossentry><concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="Cartridges" oid="Cartridges">
+    <title class="- topic/title ">Cartridges</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Cartridges are compressed files that contain analysis logic. When you add a cartridge to
+            IBM StoredIQ AppStack, it can detect new data in documents during indexing and make these new
+            insights searchable. For example, a sensitive pattern cartridge can enable IBM StoredIQ to detect
+            passport numbers, phone numbers, and other IDs.</p>
+        <p class="- topic/p ">To apply the analysis logic contained in the cartridge, you must run a Step-up Analytics action that uses
+            the cartridge on an infoset. IBM StoredIQ examines all documents in the infoset, applies the analytics,
+            and then stores the analysis results in the IBM StoredIQ index.</p>
+    </conbody>
+</concept><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="managingconcepts" oid="managingconcepts">
+    <glossterm class="- topic/title concept/title glossentry/glossterm ">Managing concepts:</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Provides the ability to relate business concepts to indexed data.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="managingmulescripts" oid="managingmulescripts">
+    <glossterm class="- topic/title concept/title glossentry/glossterm ">Managing Mule scripts</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Helps you to create Mule scripts and upload script packages. These Mule
+        scripts are used by IBM StoredIQ Policy Manager to create policies using the automation workflow.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="dataserverclassic" oid="dataserverclassic">
+    <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Classic:</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Data servers can be categorized in two types: DataServer - Classic and
+        DataServer - Distributed. DataServer - Classic refers to the regular data servers. It uses either the
+        current PostgreSQL or Lucene index as an index.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="dataserverdistributed" oid="dataserverdistributed">
+    <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Distributed:</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The distributed data server uses an Elasticsearch cluster instead of an
+        embedded Postgres database. It increases the scalability and flexibility of the IBM StoredIQ
+        deployment in a way that it can manage much larger amounts of data. Without adding more data
+        servers, data that is managed by the IBM StoredIQ deployment can be increased by adding new nodes
+        to the Elasticsearch cluster. Search queries perform better on DataServer - Distributed.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="connectorapisdk" oid="connectorapisdk">
+    <glossterm class="- topic/title concept/title glossentry/glossterm ">Connector API SDK:</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A connector is a software component of IBM StoredIQ that is used to connect to a
+        data source such as a network file system and access its data. Using IBM StoredIQ Connector API SDK,
+        developers of other companies can develop connectors to new data sources outside the IBM StoredIQ
+        development environment. These connectors can be integrated with a live IBM StoredIQ application to
+        index, search, manage, and analyze data on the data source.</glossdef>
+</glossentry><concept class="- topic/topic concept/concept " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="dataworkbench" oid="dataworkbench">
+    <title class="- topic/title ">IBM StoredIQ Data Workbench</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Big data is a pervasive problem, not a one-time occurrence. It is easy for most companies to realize that
+            big data is problematic, but it is hard to identify what problems they have. Big data is all about the
+            unknown, but the unknown cannot be off limits. IBM StoredIQ Data Workbench can help you learn about
+            your data, make educated decisions with your most valuable asset, and turn your company's most
+            dangerous risk into its most valuable asset.</p>
+        <fig class="- topic/fig "/>
+        
+        <p class="- topic/p ">IBM StoredIQ Data Workbench is a data visualization and management tool that helps you to actively
+            manage your company's data. It helps you to determine how much data you have, where it is, who owns
+            it, and when it was last used. When you have a clear understanding of your company's data landscape,
+            IBM StoredIQ Data Workbench helps you take control of data. You can make informed decisions about
+            your data and act on that knowledge by copying, copying to retention, or conducting a discovery export.</p>
+        <p class="- topic/p ">Here are just some examples of how you can use IBM StoredIQ Data Workbench.</p>
+        <ul class="- topic/ul ">
+            <li class="- topic/li ">You need to find all company email that is sent from or received by Eileen Sideways
+                (esideways@thecompany.com). You can use IBM StoredIQ Data Workbench to find all email and then
+                copy that data to a predefined repository. You can also use IBM StoredIQ Data Workbench to find all of
+                the esideways@thecompany.com email that occurred between specific dates and then make that email
+                available for review.</li>
+            <li class="- topic/li ">As an administrator, you want to rid your networks and storage of unused data. You can use IBM
+                StoredIQ Data Workbench to find all files that were not modified in more than five years.</li>
+            <li class="- topic/li ">You want to find all image files that are created in 2007. Not only can IBM StoredIQ Data Workbench
+                find all image files that were created in 2007. It also shows how much space they occupy on your
+                network.</li>
+            <li class="- topic/li ">A user needs to understand how data about Windows is being retained. Using IBM StoredIQ Data
+                Workbench, you can provide that user with a visual overview of the number of objects that are retained
+                and a breakdown of files per data source. Additionally, you can apply overlays to show the user if those
+                files contain forbidden information such as credit-card numbers or Social Security numbers.</li>
+            <li class="- topic/li ">If IBM StoredIQ is configured accordingly, you can select the infosets and filters that are published to
+                the governance catalog for unified governance of structured and unstructured information. When
+                integrating with Information Governance Catalog, you can also analyze and classify the data governed
+                by IBM StoredIQ based on the data classes that are synchronized from the governance catalog.</li>
+        </ul>
+        
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="insights" oid="insights">
+    <title class="- topic/title ">IBM StoredIQ Insights</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">IBM StoredIQ Insights provides dynamic and interactive filtering for your data with easy access to all
+            metadata and instant plain-text preview of document content for full-text indexed volumes.</p>
+        <p class="- topic/p ">Faceted search lets you drill down to refine your search results as needed. In addition, you can apply any
+            valid IBM StoredIQ filter query. Tags let you categorize the data for easier management. Visual
+            representations of search results help you gain further insights into your data. Several chart types let you
+            look at and explore data from different perspectives, thus helping you identify patterns and relationships
+            very quickly.</p>
+        <p class="- topic/p ">With IBM StoredIQ Insights, you can search data that is managed and indexed by a data server of the type
+            DataServer - Distributed. In mixed deployments that have classic and distributed data servers, only the
+            content from distributed data servers will be searchable.</p>
+        <fig class="- topic/fig "/> 
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="policymanager" oid="policymanager">
+    <title class="- topic/title ">IBM StoredIQ Policy Manager</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">IBM StoredIQ Policy Manager allows users to run mature policies and processes at scale across a wider
+            range of data.</p>
+               <fig class="- topic/fig "/> 
+        <p class="- topic/p ">The users can define and run systemwide policies, focusing on the execution of the process rather than
+            understanding or reviewing affected data objects. Additionally, with reports of IBM StoredIQ Policy
+            Manager, you can record what actions were conducted, when they were conducted, and what data was
+            affected by the policy's execution.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="desktopdatacollector" oid="desktopdatacollector">
+    <title class="- topic/title ">IBM StoredIQ Desktop Data Collector</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">IBM StoredIQ Desktop Data Collector (also referred to as desktop client indexes desktops as volumes.
+            The volumes appear in IBM StoredIQ Data Server and in IBM StoredIQ Administrator, where they can be
+            used like any other data source.</p>
+        <p class="- topic/p ">The data server maintains an index using the information sent by the desktop client. After indexing,
+            desktops - even offline or unreachable ones - can be viewed, searched, or targeted for later policy action.</p>
+        
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e283" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Planning for deployment</title><task class="- topic/topic task/task " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="planningfordeployment" oid="planningfordeployment">
+    <title class="- topic/title ">Planning for Deployment</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">In addition to the information in this section, review the requirements detailed in the IBM Software
+                Product Compatibility Reports (SPCR) tool at: Software Product Compatibility Reports: StoredIQ 7.6</p>
+            <p class="- topic/p ">If you plan to use IBM StoredIQ for Legal Identification and Collection to create and manage data boxes
+                and data requests that are to be fulfilled by IBM StoredIQ, also check the system requirements for
+                StoredIQ for Legal at: Software Product Compatibility Reports: StoredIQ for Legal 2.0.3</p>
+        </context>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Generate customized reports with the SPCR tool</title>
+            <p class="- topic/p ">Go to the page at Software Product Compatibility Reports to create a high-level report for supported
+                operating systems, related software, hypervisors, and supported translations for any product. You can
+                also create an in-depth report to get detailed system requirements, hardware requirements, and end of
+                service information for each product. You can search for a product in all of the report types and reports
+                are generated based on your query values.</p>
+            <p class="- topic/p ">The following report types are the most commonly generated reports from software product compatibility
+                reports:</p>
+            </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Detailed system requirements</title>
+            <p class="- topic/p ">When you select your product version for the detailed system requirements report, you can set a
+                report filter for <b class="+ topic/ph hi-d/b ">Operating system platforms, Product components,</b> and <b class="+ topic/ph hi-d/b ">Capabilities</b>, including
+                prerequisites and support software. After you view the report, you can save it as a URL to generate
+                anytime or download it as a PDF.</p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Hardware requirements</title>
+            <p class="- topic/p ">When you select your product version for the hardware requirements report, you can set a report filter
+                by the <b class="+ topic/ph hi-d/b ">Operating system families</b> option. Set the operating system filter by selecting some or all of
+                the operating systems that are supported by your product. After you view the report, you can save it
+                as a URL to generate anytime or download it as a PDF.</p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">End of service</title>
+            <p class="- topic/p ">The end of service report shows the service window of the products that you specify over an eightyear
+                span. For example, you can find out when your product is scheduled to go out of service.</p>
+        </section>
+    </taskbody>
+</task></topic></map>

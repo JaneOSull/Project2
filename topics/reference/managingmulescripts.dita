@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="managingmulescripts">
+    <glossterm>Managing Mule scripts</glossterm>
+    <glossdef>Helps you to create Mule scripts and upload script packages. These Mule
+        scripts are used by IBM StoredIQ Policy Manager to create policies using the automation workflow.</glossdef>
+</glossentry>
