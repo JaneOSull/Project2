@@ -5,14 +5,7 @@
     <shortdesc>IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
     <conbody>
         <section>
-            <title>IBM StoredIQ Data Server</title>
-            <p>IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
-                administrators to view the dashboard and see the status of the jobs and system details. Administrators
-                can manage information about servers and conduct various configurations on the system and application
-                settings.</p>
-            <fig>
-                <image conkeyref="sources/dashboard"/>
-            </fig>
+           <p></p>
         </section>
        
        

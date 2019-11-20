@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="configurecomponents">
+    <title>Configuration</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Configure the components of your IBM StoredIQ environment in this order:</p>
+        </context>
+                    <steps>
+                        <step>
+                            <cmd>1. Elasticsearch cluster (if applicable)</cmd>
+                        </step>
+                        <step>
+                            <cmd>Gateway</cmd>
+                        </step>
+                        <step>
+                            <cmd>One or more data servers</cmd>
+                        </step>
+                        <step>
+                            <cmd>Application stack</cmd>
+                        </step>
+                    </steps>
+    </taskbody>
+</task>

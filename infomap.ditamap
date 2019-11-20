@@ -5,9 +5,9 @@
     <topicref href="topics/reference/sources.dita"></topicref>
      <keydef keys="sources" href="topics/reference/sources.dita"></keydef>
     <topicref href="topics/concept/configuringandmanagingactions.dita"></topicref>
+    <topicref href="topics/reference/sources.dita" id="sources"></topicref>
    <topicref href="topics/concept/applications.dita"></topicref>
     <keydef keys="dashboard" href="resources/images/dashboard.JPG"></keydef>
-    <keydef keys="Applications" href="topics/concept/applications.dita"></keydef>
     
    
     

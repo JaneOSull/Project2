@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="defaultuseraccounts">
+    <title>Default user accounts</title>
+    <shortdesc></shortdesc>
+    <refbody>
+    <section>
+            <title/>
+            <p>IBM StoredIQ comes with a set of default user accounts.</p> For security reasons,
+            change the passwords for these default accounts after the installation is complete so
+            that they are unique and different from the default values. The new password must be 8
+            to 64 characters long and must contain characters from at least three of these
+            categories: <ul>
+                <li>Uppercase letters: A - Z</li>
+                <li>Lowercase letters: a - z</li>
+                <li>Digits: 0 - 9</li>
+                <li>Punctuation marks or special characters: . : = * ˆ / $ # _ + @ &amp; % -</li>
+            </ul>
+            <table colsep="1" rowsep="1" frame="all">
+                <tgroup cols="3" align="left">
+                    <colspec colnum="1" colname="c1" colwidth="195pt" colsep="1" rowsep="1"
+                        align="left"/>
+                    <colspec colnum="2" colname="c2" colwidth="176.25pt" align="left"/>
+                    <colspec colnum="3" colname="c3" colwidth="366.75pt" align="left"/>
+                    <thead>
+                        <row>
+                            <entry>Account</entry>
+                            <entry align="left">Default password</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row rowsep="1">
+                            <entry align="left" colsep="1" rowsep="1">admin</entry>
+                            <entry>admin</entry>
+                            <entry>
+                                <p>Administrative account for accessing IBM StoredIQ Data Server.
+                                    Use this account for the initial setup of the data server and to
+                                    create further administrative accounts for routine
+                                    administration.</p>
+                                <p>Change the password in IBM StoredIQ Data Server under
+                                        <b>Administration</b> > <b>Configuration</b> > <b>Manage
+                                        users</b>.</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>audituser</entry>
+                            <entry>Passw0rd!</entry>
+                            <entry>
+                                <p>Account for accessing the audit database on the AppStack.</p>
+                                <p>Change the password by running the
+                                        <b>change_audituser_password</b> script as siqadmin user on
+                                    the AppStack.</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>builder</entry>
+                            <entry>None. Password is set during initial configuration.</entry>
+                            <entry>
+                                <p>Account for setting up and configuring the Elasticsearch
+                                    cluster.</p>
+                                <p>You can change the password by using the Linux <b>passwd</b>
+                                    command.</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>report user</entry>
+                            <entry>St0red1q</entry>
+                            <entry>
+                                <p>Account for accessing the report database on the AppStack.</p>
+                                <p>Change the password by running the
+                                        <b>change_reportuser_password</b> script as siqadmin user on
+                                    the AppStack.</p>
+                                <p/>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>siqadmin</entry>
+                            <entry>Passw0rd!</entry>
+                            <entry>
+                                <p>Administrative account for managing the AppStack server. For more
+                                    information, see the administration guide.</p>
+                                <p>With new installations, you are prompted for a new password
+                                    during the initial configuration of the AppStack. In updated
+                                    deployments, change the password by using the Linux
+                                        <b>passwd</b> command.</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>superadmin</entry>
+                            <entry>admin</entry>
+                            <entry>
+                                <p>Administrative account for accessing IBM StoredIQ Administrator
+                                    and IBM StoredIQ Data Server. Use this account for the initial
+                                    setup of IBM StoredIQ and to create further administrative
+                                    accounts for routine administration so that their actions can be
+                                    audited.</p>
+                                <p>Change the password in IBM StoredIQ Administrator: go to
+                                        <b>Users</b> and edit the superadmin account.</p>
+                                <p>The superadmin account has access to all IBM StoredIQ
+                                    applications on the application stack. To switch applications,
+                                    click the triangle arrow icon and select the application that
+                                    you want to access from the list of the available
+                                    applications.></p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section></refbody>
+</reference>

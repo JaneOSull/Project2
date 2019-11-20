@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="deployingibmstorediqonmicrosofthyperv">
+    <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+    
+        <taskbody>
+        <context>
+            <p>As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application
+                stack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual
+                appliance.</p>    
+             <p>Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the procedure
+                   described here, the following software prerequisites must be met:</p>
+        </context>
+      
+        <steps-unordered>
+            <step>
+                <cmd>Microsoft Hyper-V Manager must be installed on a Windows system.</cmd>
+            </step>
+            <step>
+                <cmd>7-zip for Windows or tar for the Linux operating system must be available to extract contents of the
+                    OVA.</cmd>               
+            </step>
+            <step>
+                <cmd>7-zip for Windows or gunzip for the Linux operating system must be installed to decompress the
+                    vmdk.gz file.</cmd>               
+            </step>
+            <step>
+                <cmd>Microsoft Virtual Machine Converter 3.0 (Windows) or qemu-img (Linux) or must be installed to convert
+                    the files from VMWare .vmdk files to Hyper-V .vhdx files.</cmd>
+            </step>
+        </steps-unordered>          
+          
+        </taskbody>
+</task>

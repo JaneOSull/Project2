@@ -2,30 +2,37 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Project2</title>
-    <topicref href="infomap.ditamap" format="ditamap"/>
     <topichead navtitle="About this publication">
         <topicref href="topics/concept/aboutpublication.dita" toc="no"/>
         <topicref href="topics/concept/about.dita"/>
         <topicref href="topics/tasks/contact.dita"/>
             </topichead>
     <topichead navtitle="IBM StoredIQ components">
-        <topicref href="topics/concept/ibmstorediqcomponents.dita" toc="no"></topicref>
-        <topicref href="topics/concept/solutioncomponents.dita"/>
-        <topicref href="topics/concept/applications.dita"/>
-        <topicref href="topics/concept/viewingdataserversandvolumes.dita"/>
-        <topicref href="topics/concept/schedulingharvests.dita"/>
-        <topicref href="topics/concept/creatingsysteminfosets.dita"/>
-        <topicref href="topics/concept/managingusers.dita"/>
-        <topicref href="topics/concept/configuringandmanagingactions.dita"/>
-        <topicref href="topics/concept/managingtargetsets.dita"/>
-        <topicref href="topics/concept/reports.dita"/>
-        <topicref href="topics/concept/autoclassification.dita"/>
-        <topicref href="topics/concept/cartridges.dita"/>
-        <topicref href="topics/reference/managingconcepts.dita"/>
-        <topicref href="topics/reference/managingmulescripts.dita"/>
-        <topicref href="topics/reference/dataserverclassic.dita"/>
-        <topicref href="topics/reference/dataserverdistributed.dita"/>
-        <topicref href="topics/reference/connectorapisdk.dita"/>
+        <topicref href="topics/concept/ibmstorediqcomponents.dita" toc="no"/>
+        <topicref href="topics/concept/solutioncomponents.dita">
+            <topicref href="topics/concept/gateway.dita"/>
+            <topicref href="topics/concept/dataservers.dita"/>
+            <topicref href="topics/concept/applicationstack.dita"/>
+            <topicref href="topics/concept/elasticsearchcluster.dita"/>
+        </topicref>
+        <topicref href="topics/concept/applications.dita">
+            <topicref href="topics/concept/ibmstorediqdataserver.dita"/>
+            <topicref href="topics/concept/ibmstorediqadministrator.dita"/>
+            <topicref href="topics/concept/viewingdataserversandvolumes.dita"/>
+            <topicref href="topics/concept/schedulingharvests.dita"/>
+            <topicref href="topics/concept/creatingsysteminfosets.dita"/>
+            <topicref href="topics/concept/managingusers.dita"/>
+            <topicref href="topics/concept/configuringandmanagingactions.dita"/>
+            <topicref href="topics/concept/managingtargetsets.dita"/>
+            <topicref href="topics/concept/reports.dita"/>
+            <topicref href="topics/concept/autoclassification.dita"/>
+            <topicref href="topics/concept/cartridges.dita"/>
+            <topicref href="topics/reference/managingconcepts.dita"/>
+            <topicref href="topics/reference/managingmulescripts.dita"/>
+            <topicref href="topics/reference/dataserverclassic.dita"/>
+            <topicref href="topics/reference/dataserverdistributed.dita"/>
+            <topicref href="topics/reference/connectorapisdk.dita"/>
+        </topicref>
         <topicref href="topics/concept/dataworkbench.dita"/>
         <topicref href="topics/concept/insights.dita"/>
         <topicref href="topics/concept/policymanager.dita"/>
@@ -33,6 +40,18 @@
     </topichead>
     <topichead navtitle="Planning for deployment" type="task" format="dita">
         <topicref href="topics/tasks/planningfordeployment.dita"/>
+        <topicref href="topics/reference/ovaconfig.dita"/>
+        <topicref href="topics/reference/networkandport.dita"/>
+        <topicref href="topics/tasks/openports.dita"/>
+        <topicref href="topics/reference/environmentsizingguidelines.dita"/>
     </topichead>
+    <topichead navtitle="Deploying IBM StoredIQ" type="concept" format="dita">
+        <topicref href="topics/tasks/deployingthevirtualappliances.dita"/>
+        <topicref href="topics/tasks/configurecomponents.dita"/>
+        <topicref href="topics/tasks/deployingibmstorediqonmicrosofthyperv.dita"/>
+        <topicref href="topics/tasks/configurecomponents.dita"/>
+    </topichead>
+    
+    
   
 </map>
