@@ -51,7 +51,10 @@
         <topicref href="topics/tasks/deployingibmstorediqonmicrosofthyperv.dita"/>
         <topicref href="topics/tasks/configurecomponents.dita"/>
     </topichead>
-    
+    <topichead navtitle="Index">
+    <topicref href="infomap.ditamap" format="ditamap"/>
+       
+    </topichead>
     
   
 </map>

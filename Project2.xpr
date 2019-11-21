@@ -7,7 +7,7 @@
                 <serializableOrderedMap>
                     <entry>
                         <String>keys.context</String>
-                        <String>${pdu}/Project2.ditamap</String>
+                        <String>${pdu}/infomap.ditamap</String>
                     </entry>
                 </serializableOrderedMap>
             </serialized>

@@ -6,7 +6,7 @@
     <conbody>
         <p> IBM StoredIQ Administrator helps you manage global assets common to the distributed infrastructure
             behind IBM StoredIQ applications.</p>
-        <fig><image conkeyref="sources/administrator"></image></fig>
+        <fig><image conkeyref="images/admin"></image></fig>
         <p>IBM StoredIQ Administrator provides at-a-glance understanding of the different issues that can crop up
             in the IBM StoredIQ environment. These views are unique to the IBM StoredIQ Administrator application
             as they provide an overview of how the system is running. They allow access to various pieces of
@@ -16,4 +16,5 @@
             understanding of data sources, indexes, data servers, jobs, infosets, and actions. This list provides an
             overview as to how IBM StoredIQ Administrator works:</p>
     </conbody>
+</concept>
    

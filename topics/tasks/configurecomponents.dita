@@ -9,7 +9,7 @@
         </context>
                     <steps>
                         <step>
-                            <cmd>1. Elasticsearch cluster (if applicable)</cmd>
+                            <cmd>Elasticsearch cluster (if applicable)</cmd>
                         </step>
                         <step>
                             <cmd>Gateway</cmd>

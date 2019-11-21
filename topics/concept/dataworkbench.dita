@@ -9,8 +9,10 @@
             unknown, but the unknown cannot be off limits. IBM StoredIQ Data Workbench can help you learn about
             your data, make educated decisions with your most valuable asset, and turn your company's most
             dangerous risk into its most valuable asset.</p>
-        <fig></fig>
-        <!-- conkeyref to workbench image here -->
+        <fig>
+            <image conkeyref="images/workbench"></image>
+        </fig>
+        
         <p>IBM StoredIQ Data Workbench is a data visualization and management tool that helps you to actively
             manage your company's data. It helps you to determine how much data you have, where it is, who owns
             it, and when it was last used. When you have a clear understanding of your company's data landscape,
