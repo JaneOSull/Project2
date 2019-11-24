@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="restofdocument">
+    <title>Rest of Document</title>
+    <shortdesc>This document is referred to when the original document required hyperlinks to pages we have not transcribed.</shortdesc>
+    <refbody> 
+        
+    </refbody>
+</reference>

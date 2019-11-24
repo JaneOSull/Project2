@@ -4,28 +4,50 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/Jane/Documents/Project2/Project2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Project2</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Project2</title>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About this publication"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e14">About this publication</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about"><resourceid appid="about" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Contact"><resourceid appid="Contact" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="IBM StoredIQ components"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e46">IBM StoredIQ components</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="SolutionComponents"><resourceid appid="SolutionComponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Gateway"><resourceid appid="Gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataservers"><resourceid appid="dataservers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Data Servers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applicationstack"><resourceid appid="applicationstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="elasticsearchcluster"><resourceid appid="elasticsearchcluster" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Elasticsearch cluster</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Applications"><resourceid appid="Applications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqdataserver"><resourceid appid="ibmstorediqdataserver" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqadministrator"><resourceid appid="ibmstorediqadministrator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="viewingdataserversandvolumes"><resourceid appid="viewingdataserversandvolumes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Viewing data servers and volumes:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="schedulingharvests"><resourceid appid="schedulingharvests" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Scheduling harvests:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creatingsysteminfosets"><resourceid appid="creatingsysteminfosets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Creating system infosets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingusers"><resourceid appid="managingusers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Managing users:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configuringandmanagingactions"><resourceid appid="configuringandmanagingactions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Configuring and managing actions:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingtargetsets"><resourceid appid="managingtargetsets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Managing target sets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="reports"><resourceid appid="reports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Reports:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="autoclassification"><resourceid appid="autoclassification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Auto-classification:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Cartridges"><resourceid appid="Cartridges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingconcepts"><resourceid appid="managingconcepts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Managing concepts:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingmulescripts"><resourceid appid="managingmulescripts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Managing Mule scripts</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverclassic"><resourceid appid="dataserverclassic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">DataServer - Classic:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverdistributed"><resourceid appid="dataserverdistributed" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">DataServer - Distributed:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="connectorapisdk"><resourceid appid="connectorapisdk" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Connector API SDK:</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataworkbench"><resourceid appid="dataworkbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="insights"><resourceid appid="insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="policymanager"><resourceid appid="policymanager" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="desktopdatacollector"><resourceid appid="desktopdatacollector" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Planning for deployment" type="task"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e308">Planning for deployment</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_31" type="task"><topicmeta class="- map/topicmeta " data-topic-id="planningfordeployment"><resourceid appid="planningfordeployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Planning for Deployment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_32" type="task"><topicmeta class="- map/topicmeta " data-topic-id="ovaconfigreq"><resourceid appid="ovaconfigreq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_33" type="task"><topicmeta class="- map/topicmeta " data-topic-id="networkandport"><resourceid appid="networkandport" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_34" type="task"><topicmeta class="- map/topicmeta " data-topic-id="openports"><resourceid appid="openports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Open ports for desktop client access to the data server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_35" type="task"><topicmeta class="- map/topicmeta " data-topic-id="environmentsizingguidelines"><resourceid appid="environmentsizingguidelines" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Deploying IBM StoredIQ" type="concept"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e360">Deploying IBM StoredIQ</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_36" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingthevirtualappliances"><resourceid appid="deployingthevirtualappliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_37" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_38" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingibmstorediqonmicrosofthyperv"><resourceid appid="deployingibmstorediqonmicrosofthyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_37" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37_ssol1" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Index"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e401">Index</navtitle></topicmeta><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?></topichead>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="coversheet"><resourceid appid="coversheet" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Cover Page</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About this publication"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e25">About this publication</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Contact"><resourceid appid="Contact" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="IBM StoredIQ components"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e47">IBM StoredIQ components</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="SolutionComponents"><resourceid appid="SolutionComponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Gateway"><resourceid appid="Gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataservers"><resourceid appid="dataservers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Data Servers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applicationstack"><resourceid appid="applicationstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="elasticsearchcluster"><resourceid appid="elasticsearchcluster" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Elasticsearch cluster</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Applications"><resourceid appid="Applications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqdataserver"><resourceid appid="ibmstorediqdataserver" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqadministrator"><resourceid appid="ibmstorediqadministrator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="viewingdataserversandvolumes"><resourceid appid="viewingdataserversandvolumes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Viewing data servers and volumes:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="schedulingharvests"><resourceid appid="schedulingharvests" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Scheduling harvests:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creatingsysteminfosets"><resourceid appid="creatingsysteminfosets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Creating system infosets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingusers"><resourceid appid="managingusers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Managing users:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configuringandmanagingactions"><resourceid appid="configuringandmanagingactions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Configuring and managing actions:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingtargetsets"><resourceid appid="managingtargetsets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Managing target sets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="reports"><resourceid appid="reports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Reports:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="autoclassification"><resourceid appid="autoclassification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Auto-classification:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Cartridges"><resourceid appid="Cartridges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingconcepts"><resourceid appid="managingconcepts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Managing concepts:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingmulescripts"><resourceid appid="managingmulescripts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Managing Mule scripts</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverclassic"><resourceid appid="dataserverclassic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">DataServer - Classic:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverdistributed"><resourceid appid="dataserverdistributed" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">DataServer - Distributed:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="connectorapisdk"><resourceid appid="connectorapisdk" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Connector API SDK:</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataworkbench"><resourceid appid="dataworkbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="insights"><resourceid appid="insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="policymanager"><resourceid appid="policymanager" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="desktopdatacollector"><resourceid appid="desktopdatacollector" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Planning for deployment" type="task"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e309">Planning for deployment</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_31" type="task"><topicmeta class="- map/topicmeta " data-topic-id="planningfordeployment"><resourceid appid="planningfordeployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Planning for Deployment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_32" type="task"><topicmeta class="- map/topicmeta " data-topic-id="ovaconfigreq"><resourceid appid="ovaconfigreq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_33" type="task"><topicmeta class="- map/topicmeta " data-topic-id="networkandport"><resourceid appid="networkandport" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_34" type="task"><topicmeta class="- map/topicmeta " data-topic-id="openports"><resourceid appid="openports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Open ports for desktop client access to the data server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_35" type="task"><topicmeta class="- map/topicmeta " data-topic-id="environmentsizingguidelines"><resourceid appid="environmentsizingguidelines" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_36" type="task"><topicmeta class="- map/topicmeta " data-topic-id="stackprovisioningprerequisites"><resourceid appid="stackprovisioningprerequisites" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_37" type="task"><topicmeta class="- map/topicmeta " data-topic-id="licenceusagemetrics"><resourceid appid="licenceusagemetrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_38" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Security"><resourceid appid="Security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Deploying IBM StoredIQ" type="concept"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e392">Deploying IBM StoredIQ</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_40" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingthevirtualappliances"><resourceid appid="deployingthevirtualappliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_40" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_42" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingibmstorediqonmicrosofthyperv"><resourceid appid="deployingibmstorediqonmicrosofthyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_42" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41_ssol1" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Index"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e432">Index</navtitle></topicmeta><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?></topichead>
+    
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Glossary"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e440">Glossary</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_43" type="glossgroup"><topicmeta class="- map/topicmeta " data-topic-id="glossary1"><resourceid appid="glossary1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_43" class="- topic/navtitle ">Glossary Terms</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
     
   
-</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">About this publication</title><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="aboutpublication" oid="aboutpublication">
+</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="coversheet" oid="coversheet">
+    <title class="- topic/title ">Cover Page</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The following is the hierarchy used for this project</p>
+        <ul class="- topic/ul " id="unique_1_Connect_42_ul_qgs_vft_5jb" nd:nd-id="ul_qgs_vft_5jb">
+            <li class="- topic/li ">Project2<ul class="- topic/ul " id="unique_1_Connect_42_ul_yv5_xft_5jb" nd:nd-id="ul_yv5_xft_5jb">
+                    <li class="- topic/li ">resources<ul class="- topic/ul " id="unique_1_Connect_42_ul_myt_yft_5jb" nd:nd-id="ul_myt_yft_5jb">
+                            <li class="- topic/li ">images</li>
+                            <li class="- topic/li ">pdfs</li>
+                        </ul></li>
+                    <li class="- topic/li ">topics<ul class="- topic/ul " id="unique_1_Connect_42_ul_oqk_bgt_5jb" nd:nd-id="ul_oqk_bgt_5jb">
+                            <li class="- topic/li ">concepts</li>
+                            <li class="- topic/li ">references</li>
+                            <li class="- topic/li ">tasks</li>
+                        </ul></li>
+                </ul></li>
+            <li class="- topic/li ">There are two maps:  the main map is Project2.ditamap</li>
+            <li class="- topic/li ">a secondary map called infomap.ditamap contains keys for conkeyref</li>
+            <li class="- topic/li ">a reference file called source.dita contains the conkeyref references</li>
+            <li class="- topic/li ">a reference file called restofdocument.dita is the destination file for internal
+                links where links occurred in the source document to pages we haven't
+                transcriped.</li>
+            <li class="- topic/li ">Images and notes were inserted using conkeyref.</li>
+        </ul>
+    </conbody>
+</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e25" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">About this publication</title><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="aboutpublication" oid="aboutpublication">
     <title class="- topic/title ">About this publication</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Deployment and Configuration Guide</i> provides information about how to plan, deploy, and
             configure the IBM StoredIQ product.</p>
     </conbody>
-</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="about" oid="about">
-    <title class="- topic/title ">About this publication</title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Deployment and Configuration Guide</i> provides information about how to plan, deploy, and
-            configure the IBM StoredIQ product.</p>
-    </conbody>
-</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Contact" oid="Contact">
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Contact" oid="Contact">
     <title class="- topic/title ">Contacting IBM StoredIQ customer support</title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
@@ -52,14 +74,14 @@
         </section>
         
     </taskbody>
-</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e46" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">IBM StoredIQ components</title><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqcomponents" oid="ibmstorediqcomponents">
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e47" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">IBM StoredIQ components</title><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqcomponents" oid="ibmstorediqcomponents">
     <title class="- topic/title ">IBM StoredIQ components</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data
             server, and optionally the Elasticsearch cluster.</p>
     </conbody>
-</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="SolutionComponents" oid="SolutionComponents">
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="SolutionComponents" oid="SolutionComponents">
     <title class="- topic/title ">Solution components</title>
     <shortdesc class="- topic/shortdesc "/>
          <conbody class="- topic/body  concept/conbody "> 
@@ -113,16 +135,12 @@
             nodes. Nodes can be added dynamically without downtime and the indexing process can use these
             newly added nodes without further setup.</p>
     </conbody>
-</concept></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="Applications" oid="Applications">
+</concept></concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="Applications" oid="Applications">
     <title class="- topic/title ">Applications of IBM StoredIQ</title>
     <shortdesc class="- topic/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <section class="- topic/section ">
-           <p class="- topic/p "/>
-        </section>
-       
-       
-           </conbody>
+          
+       </conbody>
 <concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqdataserver" oid="ibmstorediqdataserver">
     <title class="- topic/title ">IBM StoredIQ Data Server</title>
     <shortdesc class="- topic/shortdesc "/>
@@ -148,8 +166,11 @@
         <p class="- topic/p ">The administrator is the person responsible for managing the IBM StoredIQ. This individual has strong
             understanding of data sources, indexes, data servers, jobs, infosets, and actions. This list provides an
             overview as to how IBM StoredIQ Administrator works:</p>
+        <ul class="- topic/ul ">
+            <li class="- topic/li "> </li>
+        </ul>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="viewingdataserversandvolumes" oid="viewingdataserversandvolumes">
+<concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="viewingdataserversandvolumes" oid="viewingdataserversandvolumes">
     <title class="- topic/title ">Viewing data servers and volumes:</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
@@ -237,7 +258,9 @@
     </conbody>
 </concept><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="managingconcepts" oid="managingconcepts">
     <glossterm class="- topic/title concept/title glossentry/glossterm ">Managing concepts:</glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Provides the ability to relate business concepts to indexed data.</glossdef>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">
+        Provides the ability to relate business concepts to indexed data. 
+    </glossdef>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="managingmulescripts" oid="managingmulescripts">
     <glossterm class="- topic/title concept/title glossentry/glossterm ">Managing Mule scripts</glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Helps you to create Mule scripts and upload script packages. These Mule
@@ -261,7 +284,7 @@
         developers of other companies can develop connectors to new data sources outside the IBM StoredIQ
         development environment. These connectors can be integrated with a live IBM StoredIQ application to
         index, search, manage, and analyze data on the data source.</glossdef>
-</glossentry></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="dataworkbench" oid="dataworkbench">
+</glossentry></concept></concept><concept class="- topic/topic concept/concept " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="dataworkbench" oid="dataworkbench">
     <title class="- topic/title ">IBM StoredIQ Data Workbench</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
@@ -300,7 +323,7 @@
         </ul>
         
     </conbody>
-</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="insights" oid="insights">
+</concept><concept class="- topic/topic concept/concept " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="insights" oid="insights">
     <title class="- topic/title ">IBM StoredIQ Insights</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
@@ -316,7 +339,7 @@
             content from distributed data servers will be searchable.</p>
         <fig class="- topic/fig "><image class="- topic/image " href="file:/C:/Users/Jane/Documents/Project2/resources/images/insights.JPG" placement="inline"/></fig> 
     </conbody>
-</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_29" topicrefclass="- map/topicref " nd:nd-id="policymanager" oid="policymanager">
+</concept><concept class="- topic/topic concept/concept " id="unique_29" topicrefclass="- map/topicref " nd:nd-id="policymanager" oid="policymanager">
     <title class="- topic/title ">IBM StoredIQ Policy Manager</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
@@ -328,7 +351,7 @@
             Manager, you can record what actions were conducted, when they were conducted, and what data was
             affected by the policy's execution.</p>
     </conbody>
-</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_30" topicrefclass="- map/topicref " nd:nd-id="desktopdatacollector" oid="desktopdatacollector">
+</concept><concept class="- topic/topic concept/concept " id="unique_30" topicrefclass="- map/topicref " nd:nd-id="desktopdatacollector" oid="desktopdatacollector">
     <title class="- topic/title ">IBM StoredIQ Desktop Data Collector</title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
@@ -339,25 +362,28 @@
             desktops - even offline or unreachable ones - can be viewed, searched, or targeted for later policy action.</p>
         
     </conbody>
-</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e308" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Planning for deployment</title><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="planningfordeployment" oid="planningfordeployment">
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e309" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Planning for deployment</title><task class="- topic/topic task/task " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="planningfordeployment" oid="planningfordeployment">
     <title class="- topic/title ">Planning for Deployment</title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
         <prereq class="- topic/section task/prereq ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</prereq>
         <context class="- topic/section task/context ">
-            <p class="- topic/p ">In addition to the information in this section, review the requirements detailed in the IBM Software
-                Product Compatibility Reports (SPCR) tool at: Software Product Compatibility Reports: StoredIQ 7.6</p>
-            <p class="- topic/p ">If you plan to use IBM StoredIQ for Legal Identification and Collection to create and manage data boxes
-                and data requests that are to be fulfilled by IBM StoredIQ, also check the system requirements for
-                StoredIQ for Legal at: Software Product Compatibility Reports: StoredIQ for Legal 2.0.3</p>
+            <p class="- topic/p ">In addition to the information in this section, review the requirements detailed in
+                the IBM Software Product Compatibility Reports (SPCR) tool at:<xref class="- topic/xref " format="html" href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353" scope="external"><?ditaot usertext?> Software Product Compatibility Reports: StoredIQ
+                    7.6</xref></p>
+            <p class="- topic/p ">If you plan to use IBM StoredIQ for Legal Identification and Collection to create and
+                manage data boxes and data requests that are to be fulfilled by IBM StoredIQ, also
+                check the system requirements for StoredIQ for Legal at: <xref class="- topic/xref " format="html" href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=8A0331A0C50D11E58D9C0D684F363D68" scope="external"><?ditaot usertext?>Software Product Compatibility Reports: StoredIQ
+                    for Legal 2.0.3</xref></p>
         </context>
         <section class="- topic/section ">
             <title class="- topic/title ">Generate customized reports with the SPCR tool</title>
-            <p class="- topic/p ">Go to the page at Software Product Compatibility Reports to create a high-level report for supported
-                operating systems, related software, hypervisors, and supported translations for any product. You can
-                also create an in-depth report to get detailed system requirements, hardware requirements, and end of
-                service information for each product. You can search for a product in all of the report types and reports
-                are generated based on your query values.</p>
+            <p class="- topic/p ">Go to the page at <xref class="- topic/xref " format="html" href="https://www.ibm.com/software/reports/compatibility/clarity/index.html" scope="external"><?ditaot usertext?>Software Product Compatibility Reports</xref> to
+                create a high-level report for supported operating systems, related software,
+                hypervisors, and supported translations for any product. You can also create an
+                in-depth report to get detailed system requirements, hardware requirements, and end
+                of service information for each product. You can search for a product in all of the
+                report types and reports are generated based on your query values.</p>
             <p class="- topic/p ">The following report types are the most commonly generated reports from software product compatibility
                 reports:</p>
             </section>
@@ -381,7 +407,7 @@
                 span. For example, you can find out when your product is scheduled to go out of service.</p>
         </section>
     </taskbody>
-</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " id="unique_32" topicrefclass="- map/topicref " nd:nd-id="ovaconfigreq" oid="ovaconfigreq">
+</task><reference class="- topic/topic       reference/reference " id="unique_32" topicrefclass="- map/topicref " nd:nd-id="ovaconfigreq" oid="ovaconfigreq">
     <title class="- topic/title ">Open Virtual Appliance (OVA) configuration requirements</title>
     <shortdesc class="- topic/shortdesc "/>
     <refbody class="- topic/body        reference/refbody "> 
@@ -424,16 +450,14 @@
                     <li class="- topic/li ">Primary disk (vmdisk1, SCSI 0:0): Default is 150 GB <p class="- topic/p ">This virtual disk has
                                 an associated VMDK that contains the IBM StoredIQ operating code. Do
                                 not change its size.</p>
-                        
                             <hazardstatement class="+ topic/note hazard-d/hazardstatement ">
-                                <messagepanel class="+ topic/ul hazard-d/messagepanel " id="unique_32_Connect_42_messagepanel_jy1_jrp_5jb" nd:nd-id="messagepanel_jy1_jrp_5jb">
-                                    <typeofhazard class="+ topic/li hazard-d/typeofhazard ">Attention</typeofhazard>
-                                    <howtoavoid class="+ topic/li hazard-d/howtoavoid ">If you delete the primary disk, you delete the
-                                        operating system, and the IBM StoredIQ software; the virtual
-                                        machine might need to be scrapped.</howtoavoid>
-                                </messagepanel>
-                            </hazardstatement>
-                        <p class="- topic/p "/>
+                <messagepanel class="+ topic/ul hazard-d/messagepanel ">
+                    <typeofhazard class="+ topic/li hazard-d/typeofhazard ">Attention</typeofhazard>
+                    <howtoavoid class="+ topic/li hazard-d/howtoavoid ">If you delete the primary disk, you delete the
+                        operating system, and the IBM StoredIQ software; the virtual
+                        machine might need to be scrapped.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
                         </li>
                     <li class="- topic/li ">Data disk (vmdisk2, SCSI 0:1): Default is 2 TB
                         <p class="- topic/p ">This virtual disk can be resized according to expectations on the amount of harvest data to be
@@ -494,7 +518,7 @@
             </ul>
         </section>
     </refbody>
-</reference><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " id="unique_33" topicrefclass="- map/topicref " nd:nd-id="networkandport" oid="networkandport">
+</reference><reference class="- topic/topic       reference/reference " id="unique_33" topicrefclass="- map/topicref " nd:nd-id="networkandport" oid="networkandport">
     <title class="- topic/title ">Network and port requirements</title>
     <shortdesc class="- topic/shortdesc "/>
     <refbody class="- topic/body        reference/refbody ">
@@ -525,34 +549,34 @@
         <title class="- topic/title ">Default open ports</title>
         <p class="- topic/p ">The following ports are open by default on the IBM StoredIQ.</p>
         <sectiondiv class="- topic/sectiondiv ">SSH port 22</sectiondiv>
-        <p class="- topic/p ">By default, port 22 is open on all IBM StoredIQ hosts. The port is used for Secure Shell (SSH)
-            communication and allows remote administration access to the VM. In general, traffic is encrypted using
-            password authentication. To add a layer of security, you can establish key-based authentication for
-            passwordless SSH logins to any of the IBM StoredIQ nodes in your environment as described in
-            “Configuring SSH key-based authentication” on page 45.</p>  
+        <p class="- topic/p ">By default, port 22 is open on all IBM StoredIQ hosts. The port is used for Secure Shell
+                (SSH) communication and allows remote administration access to the VM. In general,
+                traffic is encrypted using password authentication. To add a layer of security, you
+                can establish key-based authentication for passwordless SSH logins to any of the IBM
+                StoredIQ nodes in your environment as described in <xref class="- topic/xref " format="xml" href="topics/reference/restofdocument.dita"><?ditaot usertext?>“Configuring SSH key-based authentication” on page 45</xref>.</p>  
         <sectiondiv class="- topic/sectiondiv ">Default open ports on the AppStack</sectiondiv>
        <table class="- topic/table " colsep="1" frame="all" rowsep="1">
                 <tgroup align="left" class="- topic/tgroup " cols="2">
-                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.38*" xtrc="colspec:1;42:72" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:57.9832%;"/>
-                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;43:69" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:42.0168%;"/>
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.38*" xtrc="colspec:1;43:72" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:57.9832%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;44:69" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:42.0168%;"/>
                     <thead class="- topic/thead ">
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;46:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;47:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;47:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;48:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
                         </row>
                     </thead>
                     <tbody class="- topic/tbody ">
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;52:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;53:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;53:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;54:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;56:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;57:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;57:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;58:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;60:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;61:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;61:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;62:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
                         </row>
                     </tbody>
                 </tgroup>
@@ -562,40 +586,40 @@
         <title class="- topic/title ">Default open ports on the IBM StoredIQ data server</title>
         <table class="- topic/table " colsep="1" frame="all" rowsep="1">
                 <tgroup class="- topic/tgroup " cols="3">
-                    <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1.80*" xtrc="colspec:3;71:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
-                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1.80*" xtrc="colspec:4;72:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
-                    <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1.80*" xtrc="colspec:5;73:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1.80*" xtrc="colspec:3;72:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1.80*" xtrc="colspec:4;73:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1.80*" xtrc="colspec:5;74:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
                     <thead class="- topic/thead ">
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:9;76:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:10;77:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:11;78:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Service</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:9;77:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:10;78:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:11;79:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Service</entry>
                         </row>
                     </thead>
                     <tbody class="- topic/tbody ">
                         <row class="- topic/row " rowsep="1">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:12;83:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:13;84:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:14;85:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-ssh</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:12;84:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:13;85:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:14;86:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-ssh</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:15;88:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:16;89:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:17;90:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-web</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:15;89:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:16;90:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:17;91:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-web</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:18;93:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:19;94:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:20;95:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-https (UI and Web Services APIs)</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:18;94:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:19;95:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:20;96:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-https (UI and Web Services APIs)</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:21;98:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11103</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" morerows="1" xtrc="entry:22;99:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="2">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" morerows="1" xtrc="entry:23;100:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="2">PROD-transport (IBM StoredIQ transport services;
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:21;99:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11103</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" morerows="1" xtrc="entry:22;100:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="2">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" morerows="1" xtrc="entry:23;101:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="2">PROD-transport (IBM StoredIQ transport services;
                                 communication between the gateway and the data server)</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:24;104:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11104</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:24;105:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11104</entry>
                         </row>
                     </tbody>
                 </tgroup>
@@ -635,41 +659,41 @@
             <title class="- topic/title ">Default open ports on the nodes in the Elasticsearch cluster</title>
             <table class="- topic/table " colsep="1" frame="all" rowsep="1">
                 <tgroup class="- topic/tgroup " cols="3">
-                    <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1.80*" xtrc="colspec:6;144:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
-                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1.80*" xtrc="colspec:7;145:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
-                    <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1.80*" xtrc="colspec:8;146:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1.80*" xtrc="colspec:6;145:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1.80*" xtrc="colspec:7;146:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1.80*" xtrc="colspec:8;147:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
                     <thead class="- topic/thead ">
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:25;149:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:26;150:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:27;151:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Service</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:25;150:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:26;151:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:27;152:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Service</entry>
                         </row>
                     </thead>
                     <tbody class="- topic/tbody ">
                         <row class="- topic/row " rowsep="1">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:28;156:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">21</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:29;157:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:30;158:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">ftp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:28;157:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">21</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:29;158:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:30;159:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">ftp</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:31;161:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:32;162:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:33;163:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">sshd</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:31;162:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:32;163:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:33;164:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">sshd</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:34;166:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:35;167:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:36;168:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita"/>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:34;167:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:35;168:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:36;169:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita"/>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:37;171:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:38;172:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:39;173:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita"/>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:37;172:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:38;173:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:39;174:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita"/>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:40;176:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">8888</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:41;177:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:42;178:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">SimpleHTTPServer (used for
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:40;177:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">8888</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:41;178:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:42;179:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">SimpleHTTPServer (used for
                                 copying the siqelasticsearch.
                                 yml
                                 configuration file from the
@@ -677,9 +701,9 @@
                                 server)</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:43;186:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">9200</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:44;187:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp6</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:45;188:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita"><p class="- topic/p ">docker-proxy (listening for REST
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:43;187:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">9200</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:44;188:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp6</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:45;189:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita"><p class="- topic/p ">docker-proxy (listening for REST
                                 requests)</p>
                                 <p class="- topic/p ">You can restrict access to this
                                     port by either enabling Search
@@ -693,9 +717,9 @@
                                     52.</p></entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:46;202:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">9300</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:47;203:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp6</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:48;204:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">docker-proxy (internode
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:46;203:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">9300</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:47;204:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp6</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:48;205:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">docker-proxy (internode
                                 communication)</entry>
                         </row>
                     </tbody>
@@ -706,57 +730,57 @@
             <title class="- topic/title ">Default open ports on the IBM StoredIQ gateway</title>
             <table class="- topic/table " colsep="1" frame="all" rowsep="1">
                 <tgroup class="- topic/tgroup " cols="3">
-                    <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1.80*" xtrc="colspec:9;215:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
-                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1.80*" xtrc="colspec:10;216:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
-                    <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1.80*" xtrc="colspec:11;217:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1.80*" xtrc="colspec:9;216:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1.80*" xtrc="colspec:10;217:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1.80*" xtrc="colspec:11;218:85" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" style="width:33.3333%;"/>
                     <thead class="- topic/thead ">
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:49;220:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:50;221:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:51;222:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Service</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:49;221:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Port number</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:50;222:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Protocol</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:51;223:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">Service</entry>
                         </row>
                     </thead>
                     <tbody class="- topic/tbody ">
                         <row class="- topic/row " rowsep="1">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:52;227:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:53;228:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:54;229:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-ssh</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:52;228:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">22</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:53;229:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:54;230:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-ssh</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:55;232:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:56;233:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:57;234:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-web</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:55;233:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">80</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:56;234:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:57;235:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-web</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:58;237:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:59;238:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:60;239:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-https (UI and Web Services APIs)</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:58;238:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">443</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:59;239:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:60;240:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-https (UI and Web Services APIs)</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:61;242:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">5432</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:62;243:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:63;244:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-postgres</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:61;243:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">5432</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:62;244:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:63;245:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">PROD-postgres</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:64;247:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">5434</entry>
-                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" morerows="5" xtrc="entry:65;248:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="6">tcp</entry>
-                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" morerows="5" xtrc="entry:66;249:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="6">PROD-transport (IBM StoredIQ transport services;
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:64;248:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">5434</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" morerows="5" xtrc="entry:65;249:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="6">tcp</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" morerows="5" xtrc="entry:66;250:49" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita" rowspan="6">PROD-transport (IBM StoredIQ transport services;
                                 communication between the gateway and the data server)</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:67;253:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">8765</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:67;254:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">8765</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:68;256:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">7766</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:68;257:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">7766</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:69;259:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11102</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:69;260:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11102</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:70;262:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11103</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:70;263:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11103</entry>
                         </row>
                         <row class="- topic/row ">
-                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:71;265:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11104</entry>
+                            <entry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:71;266:36" xtrf="file:/C:/Users/Jane/Documents/Project2/topics/reference/networkandport.dita">11104</entry>
                         </row>
                     </tbody>
                 </tgroup>
@@ -781,7 +805,7 @@
                 'PROD-task':['21003'],</codeblock>
         </section>
     </refbody>
-</reference><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_34" topicrefclass="- map/topicref " nd:nd-id="openports" oid="openports">
+</reference><task class="- topic/topic task/task " id="unique_34" topicrefclass="- map/topicref " nd:nd-id="openports" oid="openports">
     <title class="- topic/title ">Open ports for desktop client access to the data server</title>
     <shortdesc class="- topic/shortdesc "/>
     
@@ -816,7 +840,7 @@
        
         </steps> 
        </taskbody>
-   </task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " id="unique_35" topicrefclass="- map/topicref " nd:nd-id="environmentsizingguidelines" oid="environmentsizingguidelines">
+   </task><reference class="- topic/topic       reference/reference " id="unique_35" topicrefclass="- map/topicref " nd:nd-id="environmentsizingguidelines" oid="environmentsizingguidelines">
     <title class="- topic/title ">Environment sizing guidelines</title>
     <shortdesc class="- topic/shortdesc "/>
     <refbody class="- topic/body        reference/refbody ">
@@ -890,7 +914,166 @@
                 machine.</li>
         </ul>
     </section></refbody>
-</reference></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e360" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Deploying IBM StoredIQ</title><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_36" topicrefclass="- map/topicref " nd:nd-id="deployingthevirtualappliances" oid="deployingthevirtualappliances">
+</reference><reference class="- topic/topic       reference/reference " id="unique_36" topicrefclass="- map/topicref " nd:nd-id="stackprovisioningprerequisites" oid="stackprovisioningprerequisites">
+    <title class="- topic/title ">Stack-provisioning prerequisites</title>
+    <shortdesc class="- topic/shortdesc "/>
+        <refbody class="- topic/body        reference/refbody ">
+       <section class="- topic/section ">
+        <title class="- topic/title "/>
+               <p class="- topic/p ">Before a deployment, verify that you meet these prerequisites.</p>
+           <ul class="- topic/ul ">
+               <li class="- topic/li ">At least one physical server with sufficient processor, RAM, and hard disk configuration for the planned
+                   management project.</li>
+               <li class="- topic/li ">VMware ESX or ESXi on CD/DVD or USB drive.</li>
+               <li class="- topic/li ">IP addresses, cables, and physical switch ports for at least the ESXi/ESX interface, one data server, one
+                   gateway server, and one application stack.</li>
+               <li class="- topic/li ">Network connectivity that is enabled from the following locations:<ul class="- topic/ul " id="unique_36_Connect_42_ul_d2q_mtf_5jb" nd:nd-id="ul_d2q_mtf_5jb">
+                        <li class="- topic/li ">The data server IP address to the gateway IP address on port 11103</li>
+                        <li class="- topic/li ">The gateway IP address to and from the application stack IP address on
+                            port 8765 and 5432</li>
+                        <li class="- topic/li ">Ports 80, 443, and 22 from the administrative workstation to the
+                            application stack and data server IP addresses</li>
+                        <li class="- topic/li ">Port 22 from the administrative workstation to the gateway IP
+                            address.</li>
+                    </ul></li>
+               <li class="- topic/li ">Network connectivity that is enabled from the data server IP address to any data sources to be
+                   harvested and managed.</li>
+               <li class="- topic/li ">A management station computer or notebook from where the load-management work is done.</li>
+           </ul>
+       </section>
+        </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_37" topicrefclass="- map/topicref " nd:nd-id="licenceusagemetrics" oid="licenceusagemetrics">
+    <title class="- topic/title ">License usage metrics</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM
+            StoredIQ license usage.</p>
+        <p class="- topic/p ">IBM StoredIQ is licensed by Resource Value Unit (RVU). RVU calculation is based on terabytes IBM
+            StoredIQ.</p>
+        <p class="- topic/p ">On the IBM StoredIQ application stack, a license program writes usage information to an IBM Software
+            Licence Metric Tag (SLMT) file. This file has the extension .slmtag and can be read periodically by the IBM
+            License Metric Tool (ILMT) after it has been configured to scan for these files. You can generate reports
+            that summarize usage.</p>
+        <p class="- topic/p ">By default, the license program retrieves the size of the All Data Objects infoset in terabytes once per day
+            and writes this information to the /var/siq/ilmt/3cd1469042433ee7010fe09f661dc67b.slmtag
+            file. The .slmtag file can store information up to a maximum file size of 1 MB, after which the file is
+            archived and a new log file is created. A maximum of 10 log files are kept.</p>
+        <p class="- topic/p ">The .slmtag file contains usage information in the following format, where new metric
+            records are appended to the end of the file:
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve"> &lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;
+            &lt;SoftwareIdentity&gt;
+                &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;
+                &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
+                &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt;
+            &lt;/SoftwareIdentity&gt;
+            &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;
+                &lt;Type&gt;TERABYTE&lt;/Type&gt;
+                &lt;SubType&gt;All Data Objects&lt;/SubType&gt;
+                &lt;Value&gt;0.005&lt;/Value&gt;
+                &lt;Period&gt;
+                    &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;
+                    &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;
+                &lt;/Period&gt;
+            &lt;/Metric&gt;</codeblock></p>
+       <section class="- topic/section ">
+           <title class="- topic/title ">Integration with IBM License Metric Tool</title>
+           <p class="- topic/p ">Versions of IBM License Metric Tool (ILMT) that support IBM Software License Metric Tag (SLMT) can
+               generate license consumption reports. An ILMT agent can scan in configurable intervals the file system
+               for .slmtag files, collect information, and send it to the corresponding ILMT server. ILMT reports the
+               number of terabytes managed by IBM StoredIQ. This number is to be used as input for the RVU License
+               Conversion Table specified in the license information (li_languagecode file) that comes with IBM
+               StoredIQ. On the application stack, you can find the license information in the License directory.</p>
+           <p class="- topic/p ">For more information about using IBM License Metric Tool, see the IBM License Metric Tool
+               documentation.</p>
+       </section>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_38" topicrefclass="- map/topicref " nd:nd-id="Security" oid="Security">
+    <title class="- topic/title ">Security</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Plan and implement specific security measures to protect the application and the data it manages,
+            especially when you deploy IBM StoredIQ into sensitive environments.</p>
+        <p class="- topic/p ">IBM StoredIQ keeps your data secure through encryption, security hardening, and auditing.</p>
+    <section class="- topic/section ">
+        <title class="- topic/title ">Federal Information Processing Standard (FIPS)</title>
+        <p class="- topic/p ">FIPS is a standard recommended by the National Institute of Standards and Technology (NIST) and the
+            US Federal Government. It ensures certain security standards are met for software or hardware
+            components deployed at US government sites. Enabling FIPS ensures that the SSL/TLS engine that is
+            compliant with the US Government recommendation is used. IBM StoredIQ supports FIPS Level 1.</p>
+        <p class="- topic/p ">Secure gateway communication can be enabled without FIPS. If FIPS is enabled, IBM StoredIQ uses FIPS
+            compliant versions of OpenSSL.</p>
+    </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Secure communication and encryption of data in motion</title>
+            <p class="- topic/p ">In a production environment, you should configure or install certificates on the AppStack to enable HTTPS
+                communication and to enable encryption of data in motion between the browser and the AppStack. You
+                can to this during installation and initial configuration or at any time afterward. For details, see the
+                instructions for configuring certificates.</p>
+            <p class="- topic/p ">The gateway handles the communication between the data servers and the application stack. By default,
+                the communication between the gateway, any data servers, and the AppStack is in plain text and is not
+                encrypted. If your enterprise security policy mandates encryption of data in motion, enable secure
+                gateway communication. In this case, secure gateway communication must be configured on all three
+                IBM StoredIQ components. You can enable secure gateway communication during installation and initial
+                configuration or at any time afterward. For details, see “Managing the status of secure gateway
+                communication” on page 54.</p>
+            <p class="- topic/p ">IBM StoredIQ then uses stunnel to ensure secure communication between the components. If your
+                environment includes data servers of the type DataServer - Distributed, stunnel can also be used to
+                encrypt the communication between the nodes within the Elasticsearch cluster but not for encrypting the
+                communication between the data server and the Elasticsearch cluster.</p>
+            <p class="- topic/p ">To secure the communication between the data server and the Elasticsearch cluster and the
+                communication within the Elasticsearch cluster likewise, you can enable Search Guard. For more
+                information, see “Securing Elasticsearch cluster communication with Search Guard” on page 51. If you
+                don't want to do that but still want to restrict client access to port 9200 on the Elasticsearch nodes, you
+                can set up the firewall accordingly. For more information, see “Restricting access to port 9200 on
+                Elasticsearch nodes” on page 52.</p>
+            <p class="- topic/p ">If FIPS is not enabled, the following cipher suites and encryption algorithm are used for data at rest:</p>
+            <sectiondiv class="- topic/sectiondiv ">TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256</sectiondiv>
+            <sectiondiv class="- topic/sectiondiv ">TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256</sectiondiv>
+            <p class="- topic/p ">You can configure these cipher suites in the configuration files listed in the list of key and certificate files.
+                However, if you run the utilities for enabling stunnel, you might need to make the respective configuration
+                changes again.</p>
+                </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Encryption of data at rest</title>
+            <p class="- topic/p ">Starting with IBM StoredIQ version 7.6.0.15, the disk volume on which the Elasticsearch indexes are
+                stored is encrypted by default. IBM StoredIQ uses Linux Unified Key Setup (LUKS) for disk encryption. For
+                details about key management, see “Key and certificate management” on page 41.</p>
+            <p class="- topic/p ">Optionally, you can encrypt the application data on the IBM StoredIQ application stack. For more
+                information, see “Enabling encryption of IBM StoredIQ AppStack application data” on page 50.</p>
+                    </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Network isolation</title>
+            <p class="- topic/p ">If full-text harvesting and Step-up Analytics actions (cartridges) are applied, Elasticsearch indexes can
+                contain potentially sensitive content. Therefore, you should deploy the Elasticsearch nodes in an isolated
+                location on the network (for example, as an enclave or behind a firewall) that is properly secured
+                according to the sensitivity of the data being harvested. Only the IBM StoredIQ application stack and data
+                servers should be allowed to communicate with the Elasticsearch nodes.</p>
+            <p class="- topic/p ">Also, any data servers and the gateway should be deployed in an isolated network location to allow for
+                communication with authorized clients only.</p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Access control</title>
+            <p class="- topic/p ">The following administrative accounts are required. The builder and siqadmin accounts
+                are IBM StoredIQ-specific accounts. For more information about these accounts, see
+                    <xref class="- topic/xref " href="#unique_39" broken-link="true" type="reference"><?ditaot usertext?>“Default user accounts”
+                    on page 17</xref>.</p>
+                   </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">root and builder accounts on the Elasticsearch cluster nodes</title>
+            <p class="- topic/p ">Remote login for root can be disabled. However, local root login is required, either log in as root or
+                use the su command to obtain root permissions temporarily.</p>
+            <p class="- topic/p ">You set the passwords for the root and builder accounts during the configuration process when
+                you start the VM for the first time. You can change these passwords anytime.</p>
+               </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">siqadmin account on the AppStack</title>
+            <p class="- topic/p ">Administration of the AppStack usually does not require direct root access. For day-to-day
+                administration, the siqadmin account can be used.</p>
+            <p class="- topic/p ">You set the password for the siqadmin account during the configuration process when you start the
+                VM for the first time. You can change this password anytime.</p>
+        </section>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e392" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Deploying IBM StoredIQ</title><task class="- topic/topic task/task " id="unique_40" topicrefclass="- map/topicref " nd:nd-id="deployingthevirtualappliances" oid="deployingthevirtualappliances">
     <title class="- topic/title ">Deploying the virtual appliances</title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
@@ -966,7 +1149,7 @@
                    </step>                         
            </steps> 
     </taskbody>
-</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_37" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
+</task><task class="- topic/topic task/task " id="unique_41" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
     <title class="- topic/title ">Configuration</title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
@@ -975,7 +1158,7 @@
         </context>
                     <steps class="- topic/ol task/steps ">
                         <step class="- topic/li task/step ">
-                            <cmd class="- topic/ph task/cmd ">1. Elasticsearch cluster (if applicable)</cmd>
+                            <cmd class="- topic/ph task/cmd ">Elasticsearch cluster (if applicable)</cmd>
                         </step>
                         <step class="- topic/li task/step ">
                             <cmd class="- topic/ph task/cmd ">Gateway</cmd>
@@ -988,7 +1171,7 @@
                         </step>
                     </steps>
     </taskbody>
-</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_38" topicrefclass="- map/topicref " nd:nd-id="deployingibmstorediqonmicrosofthyperv" oid="deployingibmstorediqonmicrosofthyperv">
+</task><task class="- topic/topic task/task " id="unique_42" topicrefclass="- map/topicref " nd:nd-id="deployingibmstorediqonmicrosofthyperv" oid="deployingibmstorediqonmicrosofthyperv">
     <title class="- topic/title ">Deploying IBM StoredIQ on Microsoft Hyper-V</title>
     
         <taskbody class="- topic/body task/taskbody ">
@@ -1019,7 +1202,7 @@
         </steps-unordered>          
           
         </taskbody>
-</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_37_ssol1" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
+</task><task class="- topic/topic task/task " id="unique_41_ssol1" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
     <title class="- topic/title ">Configuration</title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
@@ -1028,7 +1211,7 @@
         </context>
                     <steps class="- topic/ol task/steps ">
                         <step class="- topic/li task/step ">
-                            <cmd class="- topic/ph task/cmd ">1. Elasticsearch cluster (if applicable)</cmd>
+                            <cmd class="- topic/ph task/cmd ">Elasticsearch cluster (if applicable)</cmd>
                         </step>
                         <step class="- topic/li task/step ">
                             <cmd class="- topic/ph task/cmd ">Gateway</cmd>
@@ -1041,4 +1224,77 @@
                         </step>
                     </steps>
     </taskbody>
-</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e401" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Index</title></topic></map>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e432" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Index</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e440" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Glossary</title><glossgroup class="- topic/topic concept/concept glossgroup/glossgroup " id="unique_43" topicrefclass="- map/topicref " nd:nd-id="glossary1" oid="glossary1">
+    <title class="- topic/title ">Glossary Terms</title>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_44" nd:nd-id="applicationStack" oid="applicationStack">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Application stack</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ
+            Data Workbench, IBM StoredIQ Insights, and the IBM StoredIQ Policy Manager products.
+        <p class="- topic/p ">The synchronization feature for integration with a governance catalog is also part of the application
+            stack.</p></glossdef> 
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_45" nd:nd-id="cartridges" oid="cartridges">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Cartridges</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><p class="- topic/p ">Cartridges are compressed files that contain analysis logic. When you add a cartridge to
+            IBM StoredIQ AppStack, it can detect new data in documents during indexing and make these new
+            insights searchable. For example, a sensitive pattern cartridge can enable IBM StoredIQ to detect
+            passport numbers, phone numbers, and other IDs.</p>
+        <p class="- topic/p ">To apply the analysis logic contained in the cartridge, you must run a Step-up Analytics action that uses
+            the cartridge on an infoset. IBM StoredIQ examines all documents in the infoset, applies the analytics,
+            and then stores the analysis results in the IBM StoredIQ index.</p></glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_46" nd:nd-id="connectorApisdk" oid="connectorApisdk">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Connector API SDK</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A connector is a software component of IBM StoredIQ that is used to connect to a
+            data source such as a network file system and access its data. Using IBM StoredIQ Connector API SDK,
+            developers of other companies can develop connectors to new data sources outside the IBM StoredIQ
+            development environment. These connectors can be integrated with a live IBM StoredIQ application to
+            index, search, manage, and analyze data on the data source.</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_47" nd:nd-id="dataServers" oid="dataServers">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Data servers</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><p class="- topic/p ">A data server obtains the data from supported data sources and indexes it. By indexing this data, you
+            gain information about unstructured data such as file size, file data types, file owners.</p>
+            <p class="- topic/p ">The data server pushes the information about volumes and indexes to the gateway so it can be
+                communicated to the application stack. Multiple data servers feed into a single gateway.</p>
+        <p class="- topic/p ">Data servers can be categorized in two types: DataServer - Classic and DataServer - Distributed.  With a data server of the type DataServer - Distributed, the index is stored in an Elasticsearch
+            cluster. Data servers of this type also provide better performance in search queries. They can manage
+            much larger amounts of data than data servers of the type DataServer - Classic, thus making the IBM
+            StoredIQ deployments more scalable.</p></glossdef>
+         
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_48" nd:nd-id="dataserverClassic" oid="dataserverClassic">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Classic</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Data servers can be categorized in two types: DataServer - Classic and
+            DataServer - Distributed. DataServer - Classic refers to the regular data servers. It uses either the
+            current PostgreSQL or Lucene index as an index.
+        </glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_49" nd:nd-id="dataserverDistributed" oid="dataserverDistributed">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Distributed</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The distributed data server uses an Elasticsearch cluster instead of an
+            embedded Postgres database. It increases the scalability and flexibility of the IBM StoredIQ
+            deployment in a way that it can manage much larger amounts of data. Without adding more data
+            servers, data that is managed by the IBM StoredIQ deployment can be increased by adding new nodes
+            to the Elasticsearch cluster. Search queries perform better on DataServer - Distributed.</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_50" nd:nd-id="gateway" oid="gateway">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Gateway</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The gateway communicates between the data servers and the application stack. The application stack
+            polls the gateway for information about the data on the data servers. The data servers push the
+            information to the gateway.</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_51" nd:nd-id="ibmstorediqInsights" oid="ibmstorediqInsights">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">IBM StoredIQ Insights</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><p class="- topic/p ">IBM StoredIQ Insights provides dynamic and interactive filtering for your data with easy access to all
+            metadata and instant plain-text preview of document content for full-text indexed volumes.</p>
+            <p class="- topic/p ">Faceted search lets you drill down to refine your search results as needed. In addition, you can apply any
+                valid IBM StoredIQ filter query. Tags let you categorize the data for easier management. Visual
+                representations of search results help you gain further insights into your data. Several chart types let you
+                look at and explore data from different perspectives, thus helping you identify patterns and relationships
+                very quickly.</p>
+            <p class="- topic/p ">With IBM StoredIQ Insights, you can search data that is managed and indexed by a data server of the type
+                DataServer - Distributed. In mixed deployments that have classic and distributed data servers, only the
+                content from distributed data servers will be searchable.</p></glossdef>
+    </glossentry>
+</glossgroup></topic></map>

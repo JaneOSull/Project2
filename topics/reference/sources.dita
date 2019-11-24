@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="sources">
-    <title>Source images</title>
+    <title>Source info</title>
     <shortdesc></shortdesc>
     <refbody>
         <section>
@@ -11,12 +11,36 @@
             <image href="../../resources/images/workbench.JPG" id="workbench"></image>
             <image href="../../resources/images/insights.JPG" id="insights"></image>
             <image href="../../resources/images/policymanager.JPG" id="policymgr"></image>
+            <image href="../../resources/images/header.JPG" id="header"></image>
+            <image href="../../resources/images/footer.JPG" id="footer"></image>
         </section>
         <section>
             <title>Notes</title>
             <note id="n1">Actions can be created within IBM StoredIQ Administrator and then made available to other IBM
                 StoredIQ applications such as IBM StoredIQ Data Workbench.</note>
+            <note id="n2">Before using this information and the productit supports, read the
+                information in <xref href="restofdocument.dita">Notices</xref></note>
         </section>
+        <section>
+            <title>address</title>
+            <p id ="address1">IBM Director of Licensing
+                <lines>IBM Corporation</lines>
+                <lines>North Castle Drive Armonk</lines>
+                <lines>NY 10504-1785 U.S.A.</lines>
+            </p>
+        </section>
+        <section>
+            <title>hazardstatement</title>
+            <hazardstatement id="hz1">
+                <messagepanel>
+                    <typeofhazard>Attention</typeofhazard>
+                    <howtoavoid>If you delete the primary disk, you delete the
+                        operating system, and the IBM StoredIQ software; the virtual
+                        machine might need to be scrapped.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+        </section>
+        
   
     </refbody>
 </reference>

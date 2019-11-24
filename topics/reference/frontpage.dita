@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="frontpage">
+    <title>Deployment and Configuration Guide</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <section>
+            <title></title>
+            <table>
+                <tgroup cols="1">
+                    <tbody>
+                        <row>
+                            <entry><note conkeyref="notes/n2"></note></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+           
+            <p conkeyref="addresses/address1"/>
+        </section>
+    </refbody>
+</reference>

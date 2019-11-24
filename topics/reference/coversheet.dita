@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="coversheet">
+    <title>Cover Page</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The following is the hierarchy used for this project</p>
+        <ul id="ul_qgs_vft_5jb">
+            <li>Project2<ul id="ul_yv5_xft_5jb">
+                    <li>resources<ul id="ul_myt_yft_5jb">
+                            <li>images</li>
+                            <li>pdfs</li>
+                        </ul></li>
+                    <li>topics<ul id="ul_oqk_bgt_5jb">
+                            <li>concepts</li>
+                            <li>references</li>
+                            <li>tasks</li>
+                            <li>glossary</li>
+                        </ul></li>
+                </ul></li>
+            <li>There are two maps:  the main map is Project2.ditamap</li>
+            <li>a secondary map called infomap.ditamap contains keys for conkeyref</li>
+            <li>a reference file called source.dita contains the conkeyref references</li>
+            <li>a reference file called restofdocument.dita is the destination file for internal
+                links where links occurred in the source document to pages we haven't
+                transcriped.</li>
+            <li>Images and notes were inserted using conkeyref.</li>
+        </ul>
+    </conbody>
+</concept>

@@ -43,16 +43,12 @@
                     <li>Primary disk (vmdisk1, SCSI 0:0): Default is 150 GB <p>This virtual disk has
                                 an associated VMDK that contains the IBM StoredIQ operating code. Do
                                 not change its size.</p>
-                        
-                            <hazardstatement>
-                                <messagepanel id="messagepanel_jy1_jrp_5jb">
-                                    <typeofhazard>Attention</typeofhazard>
-                                    <howtoavoid>If you delete the primary disk, you delete the
-                                        operating system, and the IBM StoredIQ software; the virtual
-                                        machine might need to be scrapped.</howtoavoid>
+                            <hazardstatement conref="sources.dita#sources/hz1">
+                                <messagepanel>
+                                    <typeofhazard/>
+                                    <howtoavoid/>
                                 </messagepanel>
                             </hazardstatement>
-                        <p/>
                         </li>
                     <li>Data disk (vmdisk2, SCSI 0:1): Default is 2 TB
                         <p>This virtual disk can be resized according to expectations on the amount of harvest data to be

@@ -6,19 +6,28 @@
     <taskbody>
         <prereq>When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</prereq>
         <context>
-            <p>In addition to the information in this section, review the requirements detailed in the IBM Software
-                Product Compatibility Reports (SPCR) tool at: Software Product Compatibility Reports: StoredIQ 7.6</p>
-            <p>If you plan to use IBM StoredIQ for Legal Identification and Collection to create and manage data boxes
-                and data requests that are to be fulfilled by IBM StoredIQ, also check the system requirements for
-                StoredIQ for Legal at: Software Product Compatibility Reports: StoredIQ for Legal 2.0.3</p>
+            <p>In addition to the information in this section, review the requirements detailed in
+                the IBM Software Product Compatibility Reports (SPCR) tool at:<xref
+                    href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353"
+                    format="html" scope="external"> Software Product Compatibility Reports: StoredIQ
+                    7.6</xref></p>
+            <p>If you plan to use IBM StoredIQ for Legal Identification and Collection to create and
+                manage data boxes and data requests that are to be fulfilled by IBM StoredIQ, also
+                check the system requirements for StoredIQ for Legal at: <xref
+                    href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=8A0331A0C50D11E58D9C0D684F363D68"
+                    format="html" scope="external">Software Product Compatibility Reports: StoredIQ
+                    for Legal 2.0.3</xref></p>
         </context>
         <section>
             <title>Generate customized reports with the SPCR tool</title>
-            <p>Go to the page at Software Product Compatibility Reports to create a high-level report for supported
-                operating systems, related software, hypervisors, and supported translations for any product. You can
-                also create an in-depth report to get detailed system requirements, hardware requirements, and end of
-                service information for each product. You can search for a product in all of the report types and reports
-                are generated based on your query values.</p>
+            <p>Go to the page at <xref
+                    href="https://www.ibm.com/software/reports/compatibility/clarity/index.html"
+                    format="html" scope="external">Software Product Compatibility Reports</xref> to
+                create a high-level report for supported operating systems, related software,
+                hypervisors, and supported translations for any product. You can also create an
+                in-depth report to get detailed system requirements, hardware requirements, and end
+                of service information for each product. You can search for a product in all of the
+                report types and reports are generated based on your query values.</p>
             <p>The following report types are the most commonly generated reports from software product compatibility
                 reports:</p>
             </section>

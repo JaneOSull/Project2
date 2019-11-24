@@ -2,9 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Project2</title>
+    <topicref href="topics/reference/coversheet.dita"/>
     <topichead navtitle="About this publication">
         <topicref href="topics/concept/aboutpublication.dita" toc="no"/>
-        <topicref href="topics/concept/about.dita"/>
         <topicref href="topics/tasks/contact.dita"/>
             </topichead>
     <topichead navtitle="IBM StoredIQ components">
@@ -15,23 +15,24 @@
             <topicref href="topics/concept/applicationstack.dita"/>
             <topicref href="topics/concept/elasticsearchcluster.dita"/>
         </topicref>
-        <topicref href="topics/concept/applications.dita">
+            <topicref href="topics/concept/applications.dita">
             <topicref href="topics/concept/ibmstorediqdataserver.dita"/>
-            <topicref href="topics/concept/ibmstorediqadministrator.dita"/>
-            <topicref href="topics/concept/viewingdataserversandvolumes.dita"/>
-            <topicref href="topics/concept/schedulingharvests.dita"/>
-            <topicref href="topics/concept/creatingsysteminfosets.dita"/>
-            <topicref href="topics/concept/managingusers.dita"/>
-            <topicref href="topics/concept/configuringandmanagingactions.dita"/>
-            <topicref href="topics/concept/managingtargetsets.dita"/>
-            <topicref href="topics/concept/reports.dita"/>
-            <topicref href="topics/concept/autoclassification.dita"/>
-            <topicref href="topics/concept/cartridges.dita"/>
-            <topicref href="topics/reference/managingconcepts.dita"/>
-            <topicref href="topics/reference/managingmulescripts.dita"/>
-            <topicref href="topics/reference/dataserverclassic.dita"/>
-            <topicref href="topics/reference/dataserverdistributed.dita"/>
-            <topicref href="topics/reference/connectorapisdk.dita"/>
+            <topicref href="topics/concept/ibmstorediqadministrator.dita">
+                <topicref href="topics/concept/viewingdataserversandvolumes.dita"/>
+                <topicref href="topics/concept/schedulingharvests.dita"/>
+                <topicref href="topics/concept/creatingsysteminfosets.dita"/>
+                <topicref href="topics/concept/managingusers.dita"/>
+                <topicref href="topics/concept/configuringandmanagingactions.dita"/>
+                <topicref href="topics/concept/managingtargetsets.dita"/>
+                <topicref href="topics/concept/reports.dita"/>
+                <topicref href="topics/concept/autoclassification.dita"/>
+                <topicref href="topics/concept/cartridges.dita"/>
+                <topicref href="topics/reference/managingconcepts.dita"/>
+                <topicref href="topics/reference/managingmulescripts.dita"/>
+                <topicref href="topics/reference/dataserverclassic.dita"/>
+                <topicref href="topics/reference/dataserverdistributed.dita"/>
+                <topicref href="topics/reference/connectorapisdk.dita"/>
+            </topicref>
         </topicref>
         <topicref href="topics/concept/dataworkbench.dita"/>
         <topicref href="topics/concept/insights.dita"/>
@@ -44,6 +45,9 @@
         <topicref href="topics/reference/networkandport.dita"/>
         <topicref href="topics/tasks/openports.dita"/>
         <topicref href="topics/reference/environmentsizingguidelines.dita"/>
+        <topicref href="topics/reference/stackprovisioningprerequisites.dita"/>
+        <topicref href="topics/concept/licenceusagemetrics.dita"/>
+        <topicref href="topics/concept/Security.dita"/>
     </topichead>
     <topichead navtitle="Deploying IBM StoredIQ" type="concept" format="dita">
         <topicref href="topics/tasks/deployingthevirtualappliances.dita"/>
@@ -53,7 +57,10 @@
     </topichead>
     <topichead navtitle="Index">
     <topicref href="infomap.ditamap" format="ditamap"/>
-       
+    </topichead>
+    
+    <topichead navtitle="Glossary">
+        <topicref href="topics/glossary/glossary1.dita"/>
     </topichead>
     
   
