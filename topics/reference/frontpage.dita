@@ -3,6 +3,13 @@
 <reference id="frontpage">
     <title>Deployment and Configuration Guide</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <copyright conref="sources.dita#sources/c1">
+            <copyryear year=""/>
+            <copyryear year=""/>
+            <copyrholder/>
+        </copyright>         
+    </prolog>
     <refbody>
         <section>
             <title></title>

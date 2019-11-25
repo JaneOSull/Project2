@@ -3,6 +3,18 @@
 <reference id="sources">
     <title>Source info</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <copyright id="c1">
+            <copyryear year="2001"/>
+           <copyryear year="2019"/>
+            <copyrholder>Copyright IBM Corp.</copyrholder>
+        </copyright>
+        <permissions id="per1" view="US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with
+            IBM Corp."/>
+       
+        
+        
+    </prolog>
     <refbody>
         <section>
             <title>my images</title>
@@ -18,7 +30,7 @@
             <title>Notes</title>
             <note id="n1">Actions can be created within IBM StoredIQ Administrator and then made available to other IBM
                 StoredIQ applications such as IBM StoredIQ Data Workbench.</note>
-            <note id="n2">Before using this information and the productit supports, read the
+            <note id="n2">Before using this information and the product it supports, read the
                 information in <xref href="restofdocument.dita">Notices</xref></note>
         </section>
         <section>

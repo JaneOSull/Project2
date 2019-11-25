@@ -2,11 +2,23 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Project2</title>
+    <topicmeta>
+        <prodinfo id="pd1">
+            <prodname>IBM StoredIQ</prodname>
+            <vrmlist>
+                <vrm version="7.6.0.19"/>
+            </vrmlist>
+            <prognum>5724M86</prognum>
+            <component>Deployment and Configuration Guide</component>  
+        </prodinfo>   
+    </topicmeta>
+    
     <topicref href="topics/reference/coversheet.dita"/>
     <topichead navtitle="About this publication">
         <topicref href="topics/concept/aboutpublication.dita" toc="no"/>
         <topicref href="topics/tasks/contact.dita"/>
-            </topichead>
+    </topichead>
+    
     <topichead navtitle="IBM StoredIQ components">
         <topicref href="topics/concept/ibmstorediqcomponents.dita" toc="no"/>
         <topicref href="topics/concept/solutioncomponents.dita">
@@ -50,18 +62,26 @@
         <topicref href="topics/concept/Security.dita"/>
     </topichead>
     <topichead navtitle="Deploying IBM StoredIQ" type="concept" format="dita">
-        <topicref href="topics/tasks/deployingthevirtualappliances.dita"/>
-        <topicref href="topics/tasks/configurecomponents.dita"/>
-        <topicref href="topics/tasks/deployingibmstorediqonmicrosofthyperv.dita"/>
-        <topicref href="topics/tasks/configurecomponents.dita"/>
+        <topicref href="topics/concept/deployingibmstorediq.dita"/>
+        <topicref href="topics/tasks/deployingthevirtualappliances.dita">
+            <topicref href="topics/tasks/configurecomponents.dita"/>
+        </topicref>
+        <topicref href="topics/tasks/deployingibmstorediqonmicrosofthyperv.dita">
+            <topicref href="topics/tasks/microsofthyperv.dita"/>
+        </topicref>
     </topichead>
-    <topichead navtitle="Index">
-    <topicref href="infomap.ditamap" format="ditamap"/>
+    
+    <topichead navtitle="Information" toc="no">
+    <mapref href="infomap.ditamap" format="ditamap"/>
     </topichead>
     
     <topichead navtitle="Glossary">
         <topicref href="topics/glossary/glossary1.dita"/>
     </topichead>
+    <topichead navtitle="Index">
+    <mapref href="indexmap.ditamap"></mapref>
+    </topichead>
+   
     
   
 </map>

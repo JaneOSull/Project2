@@ -3,6 +3,7 @@
 <concept id="coversheet">
     <title>Cover Page</title>
     <shortdesc></shortdesc>
+   
     <conbody>
         <p>The following is the hierarchy used for this project</p>
         <ul id="ul_qgs_vft_5jb">
@@ -25,6 +26,15 @@
                 links where links occurred in the source document to pages we haven't
                 transcriped.</li>
             <li>Images and notes were inserted using conkeyref.</li>
+            <li>another secondary map called indexmap.ditamap was created for Index Terms, linked to
+                    Project2.ditamap<ul id="ul_fhb_2lr_vjb">
+                    <li>conkeyref was used in the prolog in autoclassification.dita and licenceusagemetrics.dita to link to the
+                        index.</li>
+            <li>product metadata was added to the Project2.ditamap</li>
+                        <li>copyright metadata was added to sources.dita</li>
+                        
+                    
+                </ul></li>
         </ul>
     </conbody>
 </concept>

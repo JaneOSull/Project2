@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="indexterms">
+    <title></title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <metadata>
+            <keywords id="in1">
+                 <indexterm>
+                    auto-classification models
+                    <index-see>automated document classification</index-see>
+                </indexterm>
+               
+                <indexterm>
+                    Resource Value Unit
+                <index-see>RVU</index-see>
+                </indexterm>
+                
+                <indexterm>IBM Licence Tool Metric
+                <index-see>ILMT</index-see>
+                </indexterm>
+                
+                <indexterm>Open Virtual Appliance 
+                <index-see>OVA</index-see>
+                </indexterm>
+                                         
+                <indexterm>
+                    IBM StoredIQ Desktop Data Collector
+                    <index-see>desktop client</index-see>
+                </indexterm>
+                
+                <indexterm>
+                    application stack
+                    <index-see>AppStack</index-see>
+                </indexterm>
+                                              
+                <indexterm>
+                       Data Workbench
+                         <indexterm>
+                             about
+                         </indexterm>
+                         <indexterm>
+                             potential uses of
+                         </indexterm>
+                </indexterm>
+                
+                 <indexterm>
+                    TCP
+                    <indexterm>
+                        port ranges
+                    </indexterm>
+                </indexterm>
+                
+                <indexterm>
+                    licenced programs
+                    <indexterm>
+                        descriptions
+                    </indexterm>
+                </indexterm>
+                
+                <indexterm>
+                    Data servers
+                    <indexterm>DataServer - Classic</indexterm>
+                    <indexterm>DataServetr- Distributed</indexterm>
+                </indexterm>
+                
+                <indexterm>
+                    deploy
+                    <indexterm>OVA</indexterm>
+                    <indexterm>OVF</indexterm>
+                    <indexterm>virtual appliance</indexterm>
+                </indexterm>
+                
+            </keywords>
+
+        </metadata>
+    </prolog>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

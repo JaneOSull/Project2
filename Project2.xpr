@@ -2,16 +2,7 @@
 <project version="21.1">
     <meta>
         <filters directoryPatterns="" filePatterns="\QnewProject.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options>
-            <serialized version="21.1" xml:space="preserve">
-                <serializableOrderedMap>
-                    <entry>
-                        <String>keys.context</String>
-                        <String>${pdu}/infomap.ditamap</String>
-                    </entry>
-                </serializableOrderedMap>
-            </serialized>
-        </options>
+        <options/>
     </meta>
     <projectTree name="Project2.xpr">
         <folder path="."/>

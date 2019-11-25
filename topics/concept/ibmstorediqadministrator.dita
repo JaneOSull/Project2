@@ -15,9 +15,8 @@
         <p>The administrator is the person responsible for managing the IBM StoredIQ. This individual has strong
             understanding of data sources, indexes, data servers, jobs, infosets, and actions. This list provides an
             overview as to how IBM StoredIQ Administrator works:</p>
-        <ul>
-            <li><p conref="viewingdataserversandvolumes.dita#viewingdataserversandvolumes"></p> </li>
-        </ul>
+               
+       
     </conbody>
 </concept>
    

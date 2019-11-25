@@ -2,21 +2,339 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/css/print/p-dita.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
-<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/Jane/Documents/Project2/Project2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Project2</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/Jane/Documents/Project2/Project2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <prodinfo class="- topic/prodinfo " id="_Connect_42_pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo>   
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Project2</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Project2</title>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="coversheet"><resourceid appid="coversheet" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Cover Page</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About this publication"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e25">About this publication</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Contact"><resourceid appid="Contact" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="IBM StoredIQ components"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e47">IBM StoredIQ components</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="SolutionComponents"><resourceid appid="SolutionComponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Gateway"><resourceid appid="Gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataservers"><resourceid appid="dataservers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Data Servers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applicationstack"><resourceid appid="applicationstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="elasticsearchcluster"><resourceid appid="elasticsearchcluster" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Elasticsearch cluster</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Applications"><resourceid appid="Applications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqdataserver"><resourceid appid="ibmstorediqdataserver" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqadministrator"><resourceid appid="ibmstorediqadministrator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="viewingdataserversandvolumes"><resourceid appid="viewingdataserversandvolumes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Viewing data servers and volumes:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="schedulingharvests"><resourceid appid="schedulingharvests" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Scheduling harvests:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creatingsysteminfosets"><resourceid appid="creatingsysteminfosets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Creating system infosets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingusers"><resourceid appid="managingusers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Managing users:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configuringandmanagingactions"><resourceid appid="configuringandmanagingactions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Configuring and managing actions:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingtargetsets"><resourceid appid="managingtargetsets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Managing target sets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="reports"><resourceid appid="reports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Reports:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="autoclassification"><resourceid appid="autoclassification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Auto-classification:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Cartridges"><resourceid appid="Cartridges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingconcepts"><resourceid appid="managingconcepts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Managing concepts:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingmulescripts"><resourceid appid="managingmulescripts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Managing Mule scripts</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverclassic"><resourceid appid="dataserverclassic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">DataServer - Classic:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverdistributed"><resourceid appid="dataserverdistributed" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">DataServer - Distributed:</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="connectorapisdk"><resourceid appid="connectorapisdk" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Connector API SDK:</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataworkbench"><resourceid appid="dataworkbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="insights"><resourceid appid="insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="policymanager"><resourceid appid="policymanager" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="desktopdatacollector"><resourceid appid="desktopdatacollector" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Planning for deployment" type="task"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e309">Planning for deployment</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_31" type="task"><topicmeta class="- map/topicmeta " data-topic-id="planningfordeployment"><resourceid appid="planningfordeployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Planning for Deployment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_32" type="task"><topicmeta class="- map/topicmeta " data-topic-id="ovaconfigreq"><resourceid appid="ovaconfigreq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_33" type="task"><topicmeta class="- map/topicmeta " data-topic-id="networkandport"><resourceid appid="networkandport" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_34" type="task"><topicmeta class="- map/topicmeta " data-topic-id="openports"><resourceid appid="openports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Open ports for desktop client access to the data server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_35" type="task"><topicmeta class="- map/topicmeta " data-topic-id="environmentsizingguidelines"><resourceid appid="environmentsizingguidelines" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_36" type="task"><topicmeta class="- map/topicmeta " data-topic-id="stackprovisioningprerequisites"><resourceid appid="stackprovisioningprerequisites" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_37" type="task"><topicmeta class="- map/topicmeta " data-topic-id="licenceusagemetrics"><resourceid appid="licenceusagemetrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_38" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Security"><resourceid appid="Security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Deploying IBM StoredIQ" type="concept"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e392">Deploying IBM StoredIQ</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_40" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingthevirtualappliances"><resourceid appid="deployingthevirtualappliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_40" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_42" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingibmstorediqonmicrosofthyperv"><resourceid appid="deployingibmstorediqonmicrosofthyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_42" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41_ssol1" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Index"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e432">Index</navtitle></topicmeta><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?></topichead>
     
-    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Glossary"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e440">Glossary</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_43" type="glossgroup"><topicmeta class="- map/topicmeta " data-topic-id="glossary1"><resourceid appid="glossary1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_43" class="- topic/navtitle ">Glossary Terms</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+    
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="coversheet"><resourceid appid="coversheet" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Cover Page</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e44a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About this publication"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e61">About this publication</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Contact"><resourceid appid="Contact" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e98a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topichead>
+    
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="IBM StoredIQ components"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e115">IBM StoredIQ components</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="SolutionComponents"><resourceid appid="SolutionComponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e152a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Gateway"><resourceid appid="Gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e178a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataservers"><resourceid appid="dataservers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Data Servers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e204a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applicationstack"><resourceid appid="applicationstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e230a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="elasticsearchcluster"><resourceid appid="elasticsearchcluster" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Elasticsearch cluster</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e256a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Applications"><resourceid appid="Applications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e283a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqdataserver"><resourceid appid="ibmstorediqdataserver" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e309a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibmstorediqadministrator"><resourceid appid="ibmstorediqadministrator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e335a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="viewingdataserversandvolumes"><resourceid appid="viewingdataserversandvolumes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Viewing data servers and volumes:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e361a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="schedulingharvests"><resourceid appid="schedulingharvests" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Scheduling harvests:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e387a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="creatingsysteminfosets"><resourceid appid="creatingsysteminfosets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Creating system infosets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e413a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingusers"><resourceid appid="managingusers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Managing users:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e439a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configuringandmanagingactions"><resourceid appid="configuringandmanagingactions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Configuring and managing actions:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e465a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="managingtargetsets"><resourceid appid="managingtargetsets" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Managing target sets:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e491a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="reports"><resourceid appid="reports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Reports:</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e517a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="autoclassificationnew"><resourceid appid="autoclassificationnew" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Autoclassification</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e543a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Cartridges"><resourceid appid="Cartridges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e569a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingconcepts"><resourceid appid="managingconcepts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Managing concepts:</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e593a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="managingmulescripts"><resourceid appid="managingmulescripts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Managing Mule scripts</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e618a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverclassic"><resourceid appid="dataserverclassic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">DataServer - Classic:</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e642a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="dataserverdistributed"><resourceid appid="dataserverdistributed" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">DataServer - Distributed:</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e666a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="connectorapisdk"><resourceid appid="connectorapisdk" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Connector API SDK:</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e690a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dataworkbench"><resourceid appid="dataworkbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e716a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="insights"><resourceid appid="insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e742a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="policymanager"><resourceid appid="policymanager" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e768a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="desktopdatacollector"><resourceid appid="desktopdatacollector" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e794a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Planning for deployment" type="task"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e812">Planning for deployment</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_31" type="task"><topicmeta class="- map/topicmeta " data-topic-id="planningfordeployment"><resourceid appid="planningfordeployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Planning for Deployment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e823a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_32" type="task"><topicmeta class="- map/topicmeta " data-topic-id="ovaconfigreq"><resourceid appid="ovaconfigreq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e849a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_33" type="task"><topicmeta class="- map/topicmeta " data-topic-id="networkandport"><resourceid appid="networkandport" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e875a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_34" type="task"><topicmeta class="- map/topicmeta " data-topic-id="openports"><resourceid appid="openports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Open ports for desktop client access to the data server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e901a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_35" type="task"><topicmeta class="- map/topicmeta " data-topic-id="environmentsizingguidelines"><resourceid appid="environmentsizingguidelines" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e927a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_36" type="task"><topicmeta class="- map/topicmeta " data-topic-id="stackprovisioningprerequisites"><resourceid appid="stackprovisioningprerequisites" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e953a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_37" type="task"><topicmeta class="- map/topicmeta " data-topic-id="licenceusagemetrics"><resourceid appid="licenceusagemetrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e979a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_38" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Security"><resourceid appid="Security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1005a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topichead>
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " format="dita" navtitle="Deploying IBM StoredIQ" type="concept"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e1022">Deploying IBM StoredIQ</navtitle></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_40" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingibmstorediq"><resourceid appid="deployingibmstorediq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_40" class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1033a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " format="dita" href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingthevirtualappliances"><resourceid appid="deployingthevirtualappliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1059a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_42" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="configurecomponents"><resourceid appid="configurecomponents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_42" class="- topic/navtitle ">Configuration</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1085a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topicref><topicref class="- map/topicref " format="dita" href="#unique_43" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deployingibmstorediqonmicrosofthyperv"><resourceid appid="deployingibmstorediqonmicrosofthyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_43" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1109a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta><topicref class="- map/topicref " format="dita" href="#unique_44" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="microsofthyperv"><resourceid appid="microsofthyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_44" class="- topic/navtitle ">sample procedure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1135a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topicref></topichead>
+    
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Information"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e1152">Information</navtitle></topicmeta><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?><?ditaot gentext?><?ditaot genshortdesc?></topichead>
+    
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Glossary"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d7e1160">Glossary</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_46" type="glossgroup"><topicmeta class="- map/topicmeta " data-topic-id="glossary1"><resourceid appid="glossary1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_46" class="- topic/navtitle ">Glossary Terms</navtitle><?ditaot gentext?><prodinfo class="- topic/prodinfo " id="_Connect_42_pd1_d7e1169a1035">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></topicmeta></topicref></topichead>
+    
+    <?ditaot gentext?><?ditaot genshortdesc?>
+   
     
   
-</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="coversheet" oid="coversheet">
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d30e4683" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="coversheet" oid="coversheet">
     <title class="- topic/title ">Cover Page</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_1_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
+   
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The following is the hierarchy used for this project</p>
         <ul class="- topic/ul " id="unique_1_Connect_42_ul_qgs_vft_5jb" nd:nd-id="ul_qgs_vft_5jb">
@@ -29,6 +347,7 @@
                             <li class="- topic/li ">concepts</li>
                             <li class="- topic/li ">references</li>
                             <li class="- topic/li ">tasks</li>
+                            <li class="- topic/li ">glossary</li>
                         </ul></li>
                 </ul></li>
             <li class="- topic/li ">There are two maps:  the main map is Project2.ditamap</li>
@@ -38,18 +357,41 @@
                 links where links occurred in the source document to pages we haven't
                 transcriped.</li>
             <li class="- topic/li ">Images and notes were inserted using conkeyref.</li>
+            <li class="- topic/li ">another secondary map called indexmap.ditamap was created for Index Terms, linked to
+                    Project2.ditamap<ul class="- topic/ul " id="unique_1_Connect_42_ul_fhb_2lr_vjb" nd:nd-id="ul_fhb_2lr_vjb">
+                    <li class="- topic/li ">conkeyref was used in the prolog in autoclassification.dita and licenceusagemetrics.dita to link to the
+                        index.</li>
+            <li class="- topic/li ">product metadata was added to the Project2.ditamap</li>
+                        <li class="- topic/li ">copyright metadata was added to sources.dita</li>
+                        
+                    
+                </ul></li>
         </ul>
     </conbody>
-</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e25" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">About this publication</title><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="aboutpublication" oid="aboutpublication">
+</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e61" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">About this publication</title><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="aboutpublication" oid="aboutpublication">
     <title class="- topic/title ">About this publication</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_2_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">IBM StoredIQ Deployment and Configuration Guide</i> provides information about how to plan, deploy, and
             configure the IBM StoredIQ product.</p>
     </conbody>
 </concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Contact" oid="Contact">
     <title class="- topic/title ">Contacting IBM StoredIQ customer support</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_3_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ
@@ -74,16 +416,30 @@
         </section>
         
     </taskbody>
-</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e47" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">IBM StoredIQ components</title><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqcomponents" oid="ibmstorediqcomponents">
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e115" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">IBM StoredIQ components</title><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqcomponents" oid="ibmstorediqcomponents">
     <title class="- topic/title ">IBM StoredIQ components</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_4_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data
             server, and optionally the Elasticsearch cluster.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="SolutionComponents" oid="SolutionComponents">
     <title class="- topic/title ">Solution components</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_5_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
          <conbody class="- topic/body  concept/conbody "> 
          <p class="- topic/p ">IBM StoredIQ provides three solution components: the gateway, data servers, and application stack
                 (AppStack)</p>
@@ -92,7 +448,14 @@
     
 <concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="Gateway" oid="Gateway">
     <title class="- topic/title ">Gateway</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_6_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The gateway communicates between the data servers and the application stack. The application stack
             polls the gateway for information about the data on the data servers. The data servers push the
@@ -100,7 +463,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="dataservers" oid="dataservers">
     <title class="- topic/title ">Data Servers</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_7_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">A data server obtains the data from supported data sources and indexes it. By indexing this data, you
             gain information about unstructured data such as file size, file data types, file owners.</p>
@@ -118,7 +488,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="applicationstack" oid="applicationstack">
     <title class="- topic/title ">Application stack</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_8_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ
             Data Workbench, IBM StoredIQ Insights, and the IBM StoredIQ Policy Manager products.</p>
@@ -127,7 +504,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="elasticsearchcluster" oid="elasticsearchcluster">
     <title class="- topic/title ">Elasticsearch cluster</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_9_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The Elasticsearch cluster attached to a data server of the type DataServer - Distributed provides a
             single data store for all metadata and content of harvested objects. Indexed data is distributed
@@ -137,13 +521,27 @@
     </conbody>
 </concept></concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="Applications" oid="Applications">
     <title class="- topic/title ">Applications of IBM StoredIQ</title>
-    <shortdesc class="- topic/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+    <shortdesc class="- topic/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_10_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
           
        </conbody>
 <concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqdataserver" oid="ibmstorediqdataserver">
     <title class="- topic/title ">IBM StoredIQ Data Server</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_11_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">IBM StoredIQ Data Server user interface provides access to data server functionality. It allows
             administrators to view the dashboard and see the status of the jobs and system details. Administrators
@@ -153,7 +551,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="ibmstorediqadministrator" oid="ibmstorediqadministrator">
     <title class="- topic/title ">IBM StoredIQ Administrator</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_12_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "> IBM StoredIQ Administrator helps you manage global assets common to the distributed infrastructure
             behind IBM StoredIQ applications.</p>
@@ -166,13 +571,19 @@
         <p class="- topic/p ">The administrator is the person responsible for managing the IBM StoredIQ. This individual has strong
             understanding of data sources, indexes, data servers, jobs, infosets, and actions. This list provides an
             overview as to how IBM StoredIQ Administrator works:</p>
-        <ul class="- topic/ul ">
-            <li class="- topic/li "> </li>
-        </ul>
+               
+       
     </conbody>
 <concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="viewingdataserversandvolumes" oid="viewingdataserversandvolumes">
     <title class="- topic/title ">Viewing data servers and volumes:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_13_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Using IBM StoredIQ Administrator, the Administrator can identify
             what data servers are deployed, their location, what data is being managed, and the status of each data
@@ -186,7 +597,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="schedulingharvests" oid="schedulingharvests">
     <title class="- topic/title ">Scheduling harvests:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_14_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Harvesting, which can also be referred to as indexing, is the process or task by
             which IBM StoredIQ examines and classifies data in your network. Using IBM StoredIQ Administrator,
@@ -194,7 +612,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="creatingsysteminfosets" oid="creatingsysteminfosets">
     <title class="- topic/title ">Creating system infosets:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_15_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">System infosets that use only specific indexed volumes can be created and
             managed within IBM StoredIQ Administrator. Although infosets are a core component of IBM StoredIQ
@@ -203,14 +628,28 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="managingusers" oid="managingusers">
     <title class="- topic/title ">Managing users:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_16_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The user management area allows administrators to create users and manage users'
             access to the various IBM StoredIQ applications.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="configuringandmanagingactions" oid="configuringandmanagingactions">
     <title class="- topic/title ">Configuring and managing actions:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_17_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">An action is any process that is taken upon the data that is
             represented by the indexes. Actions are run by data servers on indexed data objects. Any errors or
@@ -221,32 +660,119 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="managingtargetsets" oid="managingtargetsets">
     <title class="- topic/title ">Managing target sets:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_18_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Provides an interface that allows the user to set the wanted targets for specific
             actions that require a destination volume for their actions.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="reports" oid="reports">
     <title class="- topic/title ">Reports:</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_19_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">IBM StoredIQ Administrator provides a number of built-in reports, such as summaries of data
             objects in the system, storage use, and the number of identical documents in the system. You can
             create custom reports, including Query Analysis Reports for e-discovery purposes, and automatically
             email report notifications to administrators and other interested parties.</p>
     </conbody>
-</concept><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="autoclassification" oid="autoclassification">
-    <glossterm class="- topic/title concept/title glossentry/glossterm ">Auto-classification:</glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Automated document categorization, what IBM StoredIQ refers to as autoclassification
-        models, integrates the IBM® Content Classification's classification model into the IBM
-        StoredIQ infoset-generation process. Data Experts can use IBM Content Classification to train a
-        classification model, which is then registered with IBM StoredIQ Administrator. The registered
-        classification model can be applied to an existing infoset in IBM StoredIQ Data Workbench to generate
-        new metadata for the objects in the infoset. Metadata can be used in rule-based filters to create new
-        infosets.</glossdef>
-</glossentry><concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="Cartridges" oid="Cartridges">
-    <title class="- topic/title ">Cartridges</title>
+</concept><concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="autoclassificationnew" oid="autoclassificationnew">
+    <opentopic-index:refID indexid="indexid-1896052044" value="auto-classification models:" class="- index/refid " id="d30e1937"/><opentopic-index:refID indexid="indexid2132210815" value="automated document classification:" class="- index/refid " id="d30e1942"/><opentopic-index:refID indexid="indexid-687072619" value="Resource Value Unit:" class="- index/refid " id="d30e1947"/><opentopic-index:refID indexid="indexid2528201" value="RVU:" class="- index/refid " id="d30e1952"/><opentopic-index:refID indexid="indexid-1126549027" value="IBM Licence Tool Metric:" class="- index/refid " id="d30e1957"/><opentopic-index:refID indexid="indexid69757808" value="ILMT:" class="- index/refid " id="d30e1962"/><opentopic-index:refID indexid="indexid344653336" value="Open Virtual Appliance:" class="- index/refid " id="d30e1967"/><opentopic-index:refID indexid="indexid2438208" value="OVA:" class="- index/refid " id="d30e1972"/><opentopic-index:refID indexid="indexid-1602249034" value="IBM StoredIQ Desktop Data Collector:" class="- index/refid " id="d30e1977"/><opentopic-index:refID indexid="indexid53269963" value="desktop client:" class="- index/refid " id="d30e1982"/><opentopic-index:refID indexid="indexid649025410" value="application stack:" class="- index/refid " id="d30e1988"/><opentopic-index:refID indexid="indexid-791660525" value="AppStack:" class="- index/refid " id="d30e1993"/><opentopic-index:refID indexid="indexid1740019857" value="Data Workbench:" class="- index/refid " id="d30e1998"/><opentopic-index:refID indexid="indexid-1414285566" value="Data Workbench:potential uses of:" class="- index/refid " id="d30e2002"/><opentopic-index:refID indexid="indexid-1679067618" value="Data Workbench:about:" class="- index/refid " id="d30e2006"/><opentopic-index:refID indexid="indexid2569369" value="TCP:" class="- index/refid " id="d30e2011"/><opentopic-index:refID indexid="indexid1112614558" value="TCP:port ranges:" class="- index/refid " id="d30e2015"/><opentopic-index:refID indexid="indexid2114266110" value="licenced programs:" class="- index/refid " id="d30e2020"/><opentopic-index:refID indexid="indexid-1063367707" value="licenced programs:descriptions:" class="- index/refid " id="d30e2024"/><opentopic-index:refID indexid="indexid659789888" value="Data servers:" class="- index/refid " id="d30e2029"/><opentopic-index:refID indexid="indexid-1681732946" value="Data servers:DataServer - Classic:" class="- index/refid " id="d30e2033"/><opentopic-index:refID indexid="indexid1117724749" value="Data servers:DataServetr- Distributed:" class="- index/refid " id="d30e2037"/><opentopic-index:refID indexid="indexid1554361395" value="deploy:" class="- index/refid " id="d30e2042"/><opentopic-index:refID indexid="indexid184183253" value="deploy:virtual appliance:" class="- index/refid " id="d30e2046"/><opentopic-index:refID indexid="indexid-52195597" value="deploy:OVA:" class="- index/refid " id="d30e2050"/><opentopic-index:refID indexid="indexid-52195442" value="deploy:OVF:" class="- index/refid " id="d30e2054"/><title class="- topic/title ">Autoclassification</title>
     <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                 <opentopic-index:index.entry no-page="true" value="auto-classification models" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    auto-classification models
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1896052044" value="auto-classification models:" class="- index/refid " id="d30e1937"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="automated document classification" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">automated document classification</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2132210815" value="automated document classification:" class="- index/refid " id="d30e1942"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+               
+                <opentopic-index:index.entry no-page="true" value="Resource Value Unit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    Resource Value Unit
+                </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-687072619" value="Resource Value Unit:" class="- index/refid " id="d30e1947"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="RVU" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">RVU</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2528201" value="RVU:" class="- index/refid " id="d30e1952"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry no-page="true" value="IBM Licence Tool Metric" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">IBM Licence Tool Metric
+                </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1126549027" value="IBM Licence Tool Metric:" class="- index/refid " id="d30e1957"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="ILMT" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ILMT</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid69757808" value="ILMT:" class="- index/refid " id="d30e1962"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry no-page="true" value="Open Virtual Appliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">Open Virtual Appliance 
+                </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid344653336" value="Open Virtual Appliance:" class="- index/refid " id="d30e1967"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="OVA" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVA</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2438208" value="OVA:" class="- index/refid " id="d30e1972"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                                         
+                <opentopic-index:index.entry no-page="true" value="IBM StoredIQ Desktop Data Collector" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    IBM StoredIQ Desktop Data Collector
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1602249034" value="IBM StoredIQ Desktop Data Collector:" class="- index/refid " id="d30e1977"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="desktop client" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">desktop client</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid53269963" value="desktop client:" class="- index/refid " id="d30e1982"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry no-page="true" value="application stack" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    application stack
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid649025410" value="application stack:" class="- index/refid " id="d30e1988"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="AppStack" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">AppStack</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-791660525" value="AppStack:" class="- index/refid " id="d30e1993"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                                              
+                <opentopic-index:index.entry value="Data Workbench" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                       Data Workbench
+                         
+                         </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1740019857" value="Data Workbench:" class="- index/refid " id="d30e1998"/><opentopic-index:index.entry value="potential uses of" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                             potential uses of</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1414285566" value="Data Workbench:potential uses of:" class="- index/refid " id="d30e2002"/></opentopic-index:index.entry><opentopic-index:index.entry value="about" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                             about</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1679067618" value="Data Workbench:about:" class="- index/refid " id="d30e2006"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                 <opentopic-index:index.entry value="TCP" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    TCP
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2569369" value="TCP:" class="- index/refid " id="d30e2011"/><opentopic-index:index.entry value="port ranges" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                        port ranges</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1112614558" value="TCP:port ranges:" class="- index/refid " id="d30e2015"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry value="licenced programs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    licenced programs
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2114266110" value="licenced programs:" class="- index/refid " id="d30e2020"/><opentopic-index:index.entry value="descriptions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                        descriptions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1063367707" value="licenced programs:descriptions:" class="- index/refid " id="d30e2024"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry value="Data servers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    Data servers
+                    
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid659789888" value="Data servers:" class="- index/refid " id="d30e2029"/><opentopic-index:index.entry value="DataServer - Classic" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">DataServer - Classic</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1681732946" value="Data servers:DataServer - Classic:" class="- index/refid " id="d30e2033"/></opentopic-index:index.entry><opentopic-index:index.entry value="DataServetr- Distributed" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">DataServetr- Distributed</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1117724749" value="Data servers:DataServetr- Distributed:" class="- index/refid " id="d30e2037"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry value="deploy" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    deploy
+                    
+                    
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1554361395" value="deploy:" class="- index/refid " id="d30e2042"/><opentopic-index:index.entry value="virtual appliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">virtual appliance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid184183253" value="deploy:virtual appliance:" class="- index/refid " id="d30e2046"/></opentopic-index:index.entry><opentopic-index:index.entry value="OVA" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVA</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-52195597" value="deploy:OVA:" class="- index/refid " id="d30e2050"/></opentopic-index:index.entry><opentopic-index:index.entry value="OVF" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVF</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-52195442" value="deploy:OVF:" class="- index/refid " id="d30e2054"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+            </keywords>
+        <prodinfo class="- topic/prodinfo " id="unique_20_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Automated document categorization, what IBM StoredIQ refers to as autoclassification
+            models, integrates the IBM® Content Classification's classification model into the IBM
+            StoredIQ infoset-generation process. Data Experts can use IBM Content Classification to train a
+            classification model, which is then registered with IBM StoredIQ Administrator. The registered
+            classification model can be applied to an existing infoset in IBM StoredIQ Data Workbench to generate
+            new metadata for the objects in the infoset. Metadata can be used in rule-based filters to create new
+            infosets.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="Cartridges" oid="Cartridges">
+    <title class="- topic/title ">Cartridges</title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_21_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Cartridges are compressed files that contain analysis logic. When you add a cartridge to
             IBM StoredIQ AppStack, it can detect new data in documents during indexing and make these new
@@ -260,33 +786,75 @@
     <glossterm class="- topic/title concept/title glossentry/glossterm ">Managing concepts:</glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">
         Provides the ability to relate business concepts to indexed data. 
-    </glossdef>
+    </glossdef><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_22_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="managingmulescripts" oid="managingmulescripts">
     <glossterm class="- topic/title concept/title glossentry/glossterm ">Managing Mule scripts</glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Helps you to create Mule scripts and upload script packages. These Mule
-        scripts are used by IBM StoredIQ Policy Manager to create policies using the automation workflow.</glossdef>
+        scripts are used by IBM StoredIQ Policy Manager to create policies using the automation workflow.</glossdef><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_23_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="dataserverclassic" oid="dataserverclassic">
     <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Classic:</glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Data servers can be categorized in two types: DataServer - Classic and
         DataServer - Distributed. DataServer - Classic refers to the regular data servers. It uses either the
-        current PostgreSQL or Lucene index as an index.</glossdef>
+        current PostgreSQL or Lucene index as an index.</glossdef><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_24_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="dataserverdistributed" oid="dataserverdistributed">
     <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Distributed:</glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The distributed data server uses an Elasticsearch cluster instead of an
         embedded Postgres database. It increases the scalability and flexibility of the IBM StoredIQ
         deployment in a way that it can manage much larger amounts of data. Without adding more data
         servers, data that is managed by the IBM StoredIQ deployment can be increased by adding new nodes
-        to the Elasticsearch cluster. Search queries perform better on DataServer - Distributed.</glossdef>
+        to the Elasticsearch cluster. Search queries perform better on DataServer - Distributed.</glossdef><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_25_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="connectorapisdk" oid="connectorapisdk">
     <glossterm class="- topic/title concept/title glossentry/glossterm ">Connector API SDK:</glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A connector is a software component of IBM StoredIQ that is used to connect to a
         data source such as a network file system and access its data. Using IBM StoredIQ Connector API SDK,
         developers of other companies can develop connectors to new data sources outside the IBM StoredIQ
         development environment. These connectors can be integrated with a live IBM StoredIQ application to
-        index, search, manage, and analyze data on the data source.</glossdef>
+        index, search, manage, and analyze data on the data source.</glossdef><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_26_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
 </glossentry></concept></concept><concept class="- topic/topic concept/concept " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="dataworkbench" oid="dataworkbench">
     <title class="- topic/title ">IBM StoredIQ Data Workbench</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_27_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Big data is a pervasive problem, not a one-time occurrence. It is easy for most companies to realize that
             big data is problematic, but it is hard to identify what problems they have. Big data is all about the
@@ -325,7 +893,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="insights" oid="insights">
     <title class="- topic/title ">IBM StoredIQ Insights</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_28_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">IBM StoredIQ Insights provides dynamic and interactive filtering for your data with easy access to all
             metadata and instant plain-text preview of document content for full-text indexed volumes.</p>
@@ -341,7 +916,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_29" topicrefclass="- map/topicref " nd:nd-id="policymanager" oid="policymanager">
     <title class="- topic/title ">IBM StoredIQ Policy Manager</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_29_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">IBM StoredIQ Policy Manager allows users to run mature policies and processes at scale across a wider
             range of data.</p>
@@ -353,7 +935,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_30" topicrefclass="- map/topicref " nd:nd-id="desktopdatacollector" oid="desktopdatacollector">
     <title class="- topic/title ">IBM StoredIQ Desktop Data Collector</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_30_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">IBM StoredIQ Desktop Data Collector (also referred to as desktop client indexes desktops as volumes.
             The volumes appear in IBM StoredIQ Data Server and in IBM StoredIQ Administrator, where they can be
@@ -362,9 +951,16 @@
             desktops - even offline or unreachable ones - can be viewed, searched, or targeted for later policy action.</p>
         
     </conbody>
-</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e309" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Planning for deployment</title><task class="- topic/topic task/task " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="planningfordeployment" oid="planningfordeployment">
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e812" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Planning for deployment</title><task class="- topic/topic task/task " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="planningfordeployment" oid="planningfordeployment">
     <title class="- topic/title ">Planning for Deployment</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_31_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <prereq class="- topic/section task/prereq ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</prereq>
         <context class="- topic/section task/context ">
@@ -409,7 +1005,14 @@
     </taskbody>
 </task><reference class="- topic/topic       reference/reference " id="unique_32" topicrefclass="- map/topicref " nd:nd-id="ovaconfigreq" oid="ovaconfigreq">
     <title class="- topic/title ">Open Virtual Appliance (OVA) configuration requirements</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_32_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <refbody class="- topic/body        reference/refbody "> 
         <section class="- topic/section ">
         <title class="- topic/title ">Application stack</title>
@@ -520,7 +1123,14 @@
     </refbody>
 </reference><reference class="- topic/topic       reference/reference " id="unique_33" topicrefclass="- map/topicref " nd:nd-id="networkandport" oid="networkandport">
     <title class="- topic/title ">Network and port requirements</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_33_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <refbody class="- topic/body        reference/refbody ">
     <section class="- topic/section ">
         <title class="- topic/title "/>
@@ -807,7 +1417,14 @@
     </refbody>
 </reference><task class="- topic/topic task/task " id="unique_34" topicrefclass="- map/topicref " nd:nd-id="openports" oid="openports">
     <title class="- topic/title ">Open ports for desktop client access to the data server</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_34_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">To open ports for desktop client 
@@ -842,7 +1459,14 @@
        </taskbody>
    </task><reference class="- topic/topic       reference/reference " id="unique_35" topicrefclass="- map/topicref " nd:nd-id="environmentsizingguidelines" oid="environmentsizingguidelines">
     <title class="- topic/title ">Environment sizing guidelines</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_35_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <refbody class="- topic/body        reference/refbody ">
     <section class="- topic/section ">
         <title class="- topic/title "/>
@@ -916,7 +1540,14 @@
     </section></refbody>
 </reference><reference class="- topic/topic       reference/reference " id="unique_36" topicrefclass="- map/topicref " nd:nd-id="stackprovisioningprerequisites" oid="stackprovisioningprerequisites">
     <title class="- topic/title ">Stack-provisioning prerequisites</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_36_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
         <refbody class="- topic/body        reference/refbody ">
        <section class="- topic/section ">
         <title class="- topic/title "/>
@@ -943,8 +1574,71 @@
        </section>
         </refbody>
 </reference><concept class="- topic/topic concept/concept " id="unique_37" topicrefclass="- map/topicref " nd:nd-id="licenceusagemetrics" oid="licenceusagemetrics">
-    <title class="- topic/title ">License usage metrics</title>
+    <opentopic-index:refID indexid="indexid-1896052044" value="auto-classification models:" class="- index/refid " id="d30e3598"/><opentopic-index:refID indexid="indexid2132210815" value="automated document classification:" class="- index/refid " id="d30e3603"/><opentopic-index:refID indexid="indexid-687072619" value="Resource Value Unit:" class="- index/refid " id="d30e3608"/><opentopic-index:refID indexid="indexid2528201" value="RVU:" class="- index/refid " id="d30e3613"/><opentopic-index:refID indexid="indexid-1126549027" value="IBM Licence Tool Metric:" class="- index/refid " id="d30e3618"/><opentopic-index:refID indexid="indexid69757808" value="ILMT:" class="- index/refid " id="d30e3623"/><opentopic-index:refID indexid="indexid344653336" value="Open Virtual Appliance:" class="- index/refid " id="d30e3628"/><opentopic-index:refID indexid="indexid2438208" value="OVA:" class="- index/refid " id="d30e3633"/><opentopic-index:refID indexid="indexid-1602249034" value="IBM StoredIQ Desktop Data Collector:" class="- index/refid " id="d30e3638"/><opentopic-index:refID indexid="indexid53269963" value="desktop client:" class="- index/refid " id="d30e3643"/><opentopic-index:refID indexid="indexid649025410" value="application stack:" class="- index/refid " id="d30e3649"/><opentopic-index:refID indexid="indexid-791660525" value="AppStack:" class="- index/refid " id="d30e3654"/><opentopic-index:refID indexid="indexid1740019857" value="Data Workbench:" class="- index/refid " id="d30e3659"/><opentopic-index:refID indexid="indexid-1414285566" value="Data Workbench:potential uses of:" class="- index/refid " id="d30e3663"/><opentopic-index:refID indexid="indexid-1679067618" value="Data Workbench:about:" class="- index/refid " id="d30e3667"/><opentopic-index:refID indexid="indexid2569369" value="TCP:" class="- index/refid " id="d30e3672"/><opentopic-index:refID indexid="indexid1112614558" value="TCP:port ranges:" class="- index/refid " id="d30e3676"/><opentopic-index:refID indexid="indexid2114266110" value="licenced programs:" class="- index/refid " id="d30e3681"/><opentopic-index:refID indexid="indexid-1063367707" value="licenced programs:descriptions:" class="- index/refid " id="d30e3685"/><opentopic-index:refID indexid="indexid659789888" value="Data servers:" class="- index/refid " id="d30e3690"/><opentopic-index:refID indexid="indexid-1681732946" value="Data servers:DataServer - Classic:" class="- index/refid " id="d30e3694"/><opentopic-index:refID indexid="indexid1117724749" value="Data servers:DataServetr- Distributed:" class="- index/refid " id="d30e3698"/><opentopic-index:refID indexid="indexid1554361395" value="deploy:" class="- index/refid " id="d30e3703"/><opentopic-index:refID indexid="indexid184183253" value="deploy:virtual appliance:" class="- index/refid " id="d30e3707"/><opentopic-index:refID indexid="indexid-52195597" value="deploy:OVA:" class="- index/refid " id="d30e3711"/><opentopic-index:refID indexid="indexid-52195442" value="deploy:OVF:" class="- index/refid " id="d30e3715"/><title class="- topic/title ">License usage metrics</title>
     <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                 <opentopic-index:index.entry no-page="true" value="auto-classification models" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    auto-classification models
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1896052044" value="auto-classification models:" class="- index/refid " id="d30e3598"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="automated document classification" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">automated document classification</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2132210815" value="automated document classification:" class="- index/refid " id="d30e3603"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+               
+                <opentopic-index:index.entry no-page="true" value="Resource Value Unit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    Resource Value Unit
+                </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-687072619" value="Resource Value Unit:" class="- index/refid " id="d30e3608"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="RVU" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">RVU</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2528201" value="RVU:" class="- index/refid " id="d30e3613"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry no-page="true" value="IBM Licence Tool Metric" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">IBM Licence Tool Metric
+                </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1126549027" value="IBM Licence Tool Metric:" class="- index/refid " id="d30e3618"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="ILMT" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ILMT</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid69757808" value="ILMT:" class="- index/refid " id="d30e3623"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry no-page="true" value="Open Virtual Appliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">Open Virtual Appliance 
+                </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid344653336" value="Open Virtual Appliance:" class="- index/refid " id="d30e3628"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="OVA" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVA</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2438208" value="OVA:" class="- index/refid " id="d30e3633"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                                         
+                <opentopic-index:index.entry no-page="true" value="IBM StoredIQ Desktop Data Collector" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    IBM StoredIQ Desktop Data Collector
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1602249034" value="IBM StoredIQ Desktop Data Collector:" class="- index/refid " id="d30e3638"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="desktop client" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">desktop client</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid53269963" value="desktop client:" class="- index/refid " id="d30e3643"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry no-page="true" value="application stack" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    application stack
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid649025410" value="application stack:" class="- index/refid " id="d30e3649"/><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="AppStack" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">AppStack</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-791660525" value="AppStack:" class="- index/refid " id="d30e3654"/></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry>
+                                              
+                <opentopic-index:index.entry value="Data Workbench" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                       Data Workbench
+                         
+                         </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1740019857" value="Data Workbench:" class="- index/refid " id="d30e3659"/><opentopic-index:index.entry value="potential uses of" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                             potential uses of</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1414285566" value="Data Workbench:potential uses of:" class="- index/refid " id="d30e3663"/></opentopic-index:index.entry><opentopic-index:index.entry value="about" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                             about</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1679067618" value="Data Workbench:about:" class="- index/refid " id="d30e3667"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                 <opentopic-index:index.entry value="TCP" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    TCP
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2569369" value="TCP:" class="- index/refid " id="d30e3672"/><opentopic-index:index.entry value="port ranges" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                        port ranges</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1112614558" value="TCP:port ranges:" class="- index/refid " id="d30e3676"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry value="licenced programs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    licenced programs
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2114266110" value="licenced programs:" class="- index/refid " id="d30e3681"/><opentopic-index:index.entry value="descriptions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                        descriptions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1063367707" value="licenced programs:descriptions:" class="- index/refid " id="d30e3685"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry value="Data servers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    Data servers
+                    
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid659789888" value="Data servers:" class="- index/refid " id="d30e3690"/><opentopic-index:index.entry value="DataServer - Classic" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">DataServer - Classic</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1681732946" value="Data servers:DataServer - Classic:" class="- index/refid " id="d30e3694"/></opentopic-index:index.entry><opentopic-index:index.entry value="DataServetr- Distributed" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">DataServetr- Distributed</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1117724749" value="Data servers:DataServetr- Distributed:" class="- index/refid " id="d30e3698"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+                <opentopic-index:index.entry value="deploy" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    deploy
+                    
+                    
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1554361395" value="deploy:" class="- index/refid " id="d30e3703"/><opentopic-index:index.entry value="virtual appliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">virtual appliance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid184183253" value="deploy:virtual appliance:" class="- index/refid " id="d30e3707"/></opentopic-index:index.entry><opentopic-index:index.entry value="OVA" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVA</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-52195597" value="deploy:OVA:" class="- index/refid " id="d30e3711"/></opentopic-index:index.entry><opentopic-index:index.entry value="OVF" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVF</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-52195442" value="deploy:OVF:" class="- index/refid " id="d30e3715"/></opentopic-index:index.entry></opentopic-index:index.entry>
+                
+            </keywords>
+        <prodinfo class="- topic/prodinfo " id="unique_37_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata>
+    </prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM
             StoredIQ license usage.</p>
@@ -989,7 +1683,14 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_38" topicrefclass="- map/topicref " nd:nd-id="Security" oid="Security">
     <title class="- topic/title ">Security</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_38_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Plan and implement specific security measures to protect the application and the data it manages,
             especially when you deploy IBM StoredIQ into sensitive environments.</p>
@@ -1073,9 +1774,29 @@
                 VM for the first time. You can change this password anytime.</p>
         </section>
     </conbody>
-</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e392" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Deploying IBM StoredIQ</title><task class="- topic/topic task/task " id="unique_40" topicrefclass="- map/topicref " nd:nd-id="deployingthevirtualappliances" oid="deployingthevirtualappliances">
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e1022" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Deploying IBM StoredIQ</title><concept class="- topic/topic concept/concept " id="unique_40" topicrefclass="- map/topicref " nd:nd-id="deployingibmstorediq" oid="deployingibmstorediq">
+    <title class="- topic/title ">Deploying IBM StoredIQ</title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_40_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_41" topicrefclass="- map/topicref " nd:nd-id="deployingthevirtualappliances" oid="deployingthevirtualappliances">
     <title class="- topic/title ">Deploying the virtual appliances</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_41_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the
@@ -1149,9 +1870,16 @@
                    </step>                         
            </steps> 
     </taskbody>
-</task><task class="- topic/topic task/task " id="unique_41" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
+<task class="- topic/topic task/task " id="unique_42" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
     <title class="- topic/title ">Configuration</title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_42_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">Configure the components of your IBM StoredIQ environment in this order:</p>
@@ -1171,8 +1899,15 @@
                         </step>
                     </steps>
     </taskbody>
-</task><task class="- topic/topic task/task " id="unique_42" topicrefclass="- map/topicref " nd:nd-id="deployingibmstorediqonmicrosofthyperv" oid="deployingibmstorediqonmicrosofthyperv">
-    <title class="- topic/title ">Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+</task></task><task class="- topic/topic task/task " id="unique_43" topicrefclass="- map/topicref " nd:nd-id="deployingibmstorediqonmicrosofthyperv" oid="deployingibmstorediqonmicrosofthyperv">
+    <title class="- topic/title ">Deploying IBM StoredIQ on Microsoft Hyper-V</title><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_43_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     
         <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -1202,38 +1937,153 @@
         </steps-unordered>          
           
         </taskbody>
-</task><task class="- topic/topic task/task " id="unique_41_ssol1" topicrefclass="- map/topicref " nd:nd-id="configurecomponents" oid="configurecomponents">
-    <title class="- topic/title ">Configuration</title>
-    <shortdesc class="- topic/shortdesc "/>
+<task class="- topic/topic task/task " id="unique_44" topicrefclass="- map/topicref " nd:nd-id="microsofthyperv" oid="microsofthyperv">
+    <title class="- topic/title ">sample procedure</title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_44_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            <p class="- topic/p ">Configure the components of your IBM StoredIQ environment in this order:</p>
+            <p class="- topic/p ">Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually.</p>
+            <p class="- topic/p ">Consider the following instructions a sample procedure. The instructions might differ depending on the
+                version of the third-party software.</p>
+            <p class="- topic/p ">Complete these steps for the gateway, the data server, and the AppStack:</p>
         </context>
-                    <steps class="- topic/ol task/steps ">
-                        <step class="- topic/li task/step ">
-                            <cmd class="- topic/ph task/cmd ">Elasticsearch cluster (if applicable)</cmd>
-                        </step>
-                        <step class="- topic/li task/step ">
-                            <cmd class="- topic/ph task/cmd ">Gateway</cmd>
-                        </step>
-                        <step class="- topic/li task/step ">
-                            <cmd class="- topic/ph task/cmd ">One or more data servers</cmd>
-                        </step>
-                        <step class="- topic/li task/step ">
-                            <cmd class="- topic/ph task/cmd ">Application stack</cmd>
-                        </step>
-                    </steps>
+        <steps class="- topic/ol task/steps ">                          
+                <step class="- topic/li task/step ">
+                    <cmd class="- topic/ph task/cmd ">1. Extract the vmdk file from the OVA.</cmd>
+                    <substeps class="- topic/ol task/substeps ">
+                        <substep class="- topic/li task/substep ">
+                            <cmd class="- topic/ph task/cmd ">Download the OVA.</cmd>
+                        </substep>
+                        <substep class="- topic/li task/substep ">
+                            <cmd class="- topic/ph task/cmd ">Extract the contents of the OVA by using 7-zip for Windows or tar for the Linux operating system.</cmd>
+                        </substep>
+                        <substep class="- topic/li task/substep ">
+                            <cmd class="- topic/ph task/cmd ">Decompress the vmdk.gz archive by using 7-zip for Windows or gunzip for Linux.</cmd>
+                        </substep>
+                        <substep class="- topic/li task/substep ">
+                            <cmd class="- topic/ph task/cmd ">Delete everything except the vmdk file when the OVA extraction is complete.</cmd>
+                        </substep>
+                    </substeps>
+                </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Convert the VMWare .vmdk file to a Microsoft Hyper-V .vhdx file.</cmd>
+                <info class="- topic/itemgroup task/info "><p class="- topic/p ">For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
+                    <ul class="- topic/ul ">
+                        <li class="- topic/li ">Use <xref class="- topic/xref " format="html" href="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019" scope="external"><?ditaot usertext?>Microsoft Virtual Machine
+                                Converter</xref></li>
+                        <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/sect-virtualization-tips_and_tricks-using_qemu_img" scope="external"><?ditaot usertext?>Using qemu-img</xref></li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Build a virtual machine.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">New Virtual Machine</b> &gt; <b class="+ topic/ph hi-d/b ">Next</b> from Hyper-V
+                            Manager.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the name of the virtual machine in the <b class="+ topic/ph hi-d/b ">Specify Name and
+                                Location</b> window and click <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Generation of the machine</b> in the <b class="+ topic/ph hi-d/b ">Specify
+                                Generation</b> window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the startup memory in the <b class="+ topic/ph hi-d/b ">Assign Memory</b> window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the correct network in the <b class="+ topic/ph hi-d/b ">Configure Network</b> window and
+                            click <b class="+ topic/ph hi-d/b ">Next.</b></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Use an existing virtual hard disk</b> in the <b class="+ topic/ph hi-d/b ">Connect
+                                Virtual Hard Disk</b> window. Search the disk location, select one
+                            of the primary disks, and then click <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Finish</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Repeat these previous steps for all IBM StoredIQ disks.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">                
+                           <cmd class="- topic/ph task/cmd ">Optional: Add disks</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select a virtual machine in Microsoft Hyper-V Manager.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the settings for the virtual machine under <b class="+ topic/ph hi-d/b ">Actions</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the IDE controller and highlight Hard Drive in the
+                                <b class="+ topic/ph hi-d/b ">Settings</b> window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Hard Drive and virtual hard disk and click <b class="+ topic/ph hi-d/b ">New</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Next</b> in the New Virtual Hard Disk wizard.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">VHDX</b> in Choose Disk Format and then click
+                            <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Dynamically expanding</b> in Choose Disk Type and then click
+                                <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter a name for the disk in the <b class="+ topic/ph hi-d/b ">Specify Name and Location</b>
+                            window and the click <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Create a new blank virtual hard disk</b> and enter a size in
+                            the <b class="+ topic/ph hi-d/b ">Configure Disk</b> window and then click <b class="+ topic/ph hi-d/b ">Finish</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Repeat this procedure for all additional disks.</cmd>
+                    </substep>
+                </substeps>
+               
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page
+                    22.</cmd>
+            </step>
+            </steps>
+        <postreq class="- topic/section task/postreq ">Complete the installation process by following the instructions in <xref class="- topic/xref " href="#unique_45" broken-link="true"><?ditaot usertext?>“Configuring IBM StoredIQ” on page
+            22</xref>.</postreq>
     </taskbody>
-</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e432" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Index</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e440" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Glossary</title><glossgroup class="- topic/topic concept/concept glossgroup/glossgroup " id="unique_43" topicrefclass="- map/topicref " nd:nd-id="glossary1" oid="glossary1">
-    <title class="- topic/title ">Glossary Terms</title>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_44" nd:nd-id="applicationStack" oid="applicationStack">
+    
+</task></task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e1152" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Information</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d7e1160" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title ">Glossary</title><glossgroup class="- topic/topic concept/concept glossgroup/glossgroup " id="unique_46" topicrefclass="- map/topicref " nd:nd-id="glossary1" oid="glossary1">
+    <title class="- topic/title ">Glossary Terms</title><prolog class="- topic/prolog "><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " id="unique_46_Connect_42_pd1" nd:nd-id="pd1">
+            <prodname class="- topic/prodname ">IBM StoredIQ</prodname>
+            <vrmlist class="- topic/vrmlist ">
+                <vrm class="- topic/vrm " version="7.6.0.19"/>
+            </vrmlist>
+            <prognum class="- topic/prognum ">5724M86</prognum>
+            <component class="- topic/component ">Deployment and Configuration Guide</component>  
+        </prodinfo></metadata></prolog>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_47" nd:nd-id="applicationStack" oid="applicationStack">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">Application stack</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ
             Data Workbench, IBM StoredIQ Insights, and the IBM StoredIQ Policy Manager products.
         <p class="- topic/p ">The synchronization feature for integration with a governance catalog is also part of the application
             stack.</p></glossdef> 
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_45" nd:nd-id="cartridges" oid="cartridges">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_48" nd:nd-id="cartridges" oid="cartridges">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">Cartridges</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><p class="- topic/p ">Cartridges are compressed files that contain analysis logic. When you add a cartridge to
             IBM StoredIQ AppStack, it can detect new data in documents during indexing and make these new
@@ -1243,7 +2093,7 @@
             the cartridge on an infoset. IBM StoredIQ examines all documents in the infoset, applies the analytics,
             and then stores the analysis results in the IBM StoredIQ index.</p></glossdef>
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_46" nd:nd-id="connectorApisdk" oid="connectorApisdk">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_49" nd:nd-id="connectorApisdk" oid="connectorApisdk">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">Connector API SDK</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A connector is a software component of IBM StoredIQ that is used to connect to a
             data source such as a network file system and access its data. Using IBM StoredIQ Connector API SDK,
@@ -1251,7 +2101,7 @@
             development environment. These connectors can be integrated with a live IBM StoredIQ application to
             index, search, manage, and analyze data on the data source.</glossdef>
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_47" nd:nd-id="dataServers" oid="dataServers">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_50" nd:nd-id="dataServers" oid="dataServers">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">Data servers</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><p class="- topic/p ">A data server obtains the data from supported data sources and indexes it. By indexing this data, you
             gain information about unstructured data such as file size, file data types, file owners.</p>
@@ -1263,14 +2113,14 @@
             StoredIQ deployments more scalable.</p></glossdef>
          
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_48" nd:nd-id="dataserverClassic" oid="dataserverClassic">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_51" nd:nd-id="dataserverClassic" oid="dataserverClassic">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Classic</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Data servers can be categorized in two types: DataServer - Classic and
             DataServer - Distributed. DataServer - Classic refers to the regular data servers. It uses either the
             current PostgreSQL or Lucene index as an index.
         </glossdef>
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_49" nd:nd-id="dataserverDistributed" oid="dataserverDistributed">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_52" nd:nd-id="dataserverDistributed" oid="dataserverDistributed">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Distributed</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The distributed data server uses an Elasticsearch cluster instead of an
             embedded Postgres database. It increases the scalability and flexibility of the IBM StoredIQ
@@ -1278,13 +2128,13 @@
             servers, data that is managed by the IBM StoredIQ deployment can be increased by adding new nodes
             to the Elasticsearch cluster. Search queries perform better on DataServer - Distributed.</glossdef>
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_50" nd:nd-id="gateway" oid="gateway">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_53" nd:nd-id="gateway" oid="gateway">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">Gateway</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">The gateway communicates between the data servers and the application stack. The application stack
             polls the gateway for information about the data on the data servers. The data servers push the
             information to the gateway.</glossdef>
     </glossentry>
-    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_51" nd:nd-id="ibmstorediqInsights" oid="ibmstorediqInsights">
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_54" nd:nd-id="ibmstorediqInsights" oid="ibmstorediqInsights">
         <glossterm class="- topic/title concept/title glossentry/glossterm ">IBM StoredIQ Insights</glossterm>
         <glossdef class="- topic/abstract concept/abstract glossentry/glossdef "><p class="- topic/p ">IBM StoredIQ Insights provides dynamic and interactive filtering for your data with easy access to all
             metadata and instant plain-text preview of document content for full-text indexed volumes.</p>
@@ -1297,4 +2147,68 @@
                 DataServer - Distributed. In mixed deployments that have classic and distributed data servers, only the
                 content from distributed data servers will be searchable.</p></glossdef>
     </glossentry>
-</glossgroup></topic></map>
+</glossgroup></topic><opentopic-index:index.groups class="- index/groups " id="d30e4683"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">A</opentopic-index:label><opentopic-index:index.entry no-page="true" value="application stack" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    application stack
+                    </opentopic-index:formatted-value><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="AppStack" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">AppStack</opentopic-index:formatted-value></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry><opentopic-index:index.entry no-page="true" value="auto-classification models" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    auto-classification models
+                    </opentopic-index:formatted-value><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="automated document classification" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">automated document classification</opentopic-index:formatted-value></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">D</opentopic-index:label><opentopic-index:index.entry value="Data servers" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    Data servers
+                    
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid659789888" value="Data servers:" class="- index/refid "/><opentopic-index:index.entry value="DataServer - Classic" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">DataServer - Classic</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1681732946" value="Data servers:DataServer - Classic:" class="- index/refid "><oxy:index-link href="#d30e2033" class="- index/link ">
+                  [d30e2033]
+                </oxy:index-link><oxy:index-link href="#d30e3694" class="- index/link ">
+                  [d30e3694]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="DataServetr- Distributed" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">DataServetr- Distributed</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1117724749" value="Data servers:DataServetr- Distributed:" class="- index/refid "><oxy:index-link href="#d30e2037" class="- index/link ">
+                  [d30e2037]
+                </oxy:index-link><oxy:index-link href="#d30e3698" class="- index/link ">
+                  [d30e3698]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry><opentopic-index:index.entry value="Data Workbench" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                       Data Workbench
+                         
+                         </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1740019857" value="Data Workbench:" class="- index/refid "/><opentopic-index:index.entry value="about" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                             about</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1679067618" value="Data Workbench:about:" class="- index/refid "><oxy:index-link href="#d30e2006" class="- index/link ">
+                  [d30e2006]
+                </oxy:index-link><oxy:index-link href="#d30e3667" class="- index/link ">
+                  [d30e3667]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="potential uses of" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                             potential uses of</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1414285566" value="Data Workbench:potential uses of:" class="- index/refid "><oxy:index-link href="#d30e2002" class="- index/link ">
+                  [d30e2002]
+                </oxy:index-link><oxy:index-link href="#d30e3663" class="- index/link ">
+                  [d30e3663]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry><opentopic-index:index.entry value="deploy" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    deploy
+                    
+                    
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1554361395" value="deploy:" class="- index/refid "/><opentopic-index:index.entry value="OVA" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVA</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-52195597" value="deploy:OVA:" class="- index/refid "><oxy:index-link href="#d30e2050" class="- index/link ">
+                  [d30e2050]
+                </oxy:index-link><oxy:index-link href="#d30e3711" class="- index/link ">
+                  [d30e3711]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="OVF" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVF</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-52195442" value="deploy:OVF:" class="- index/refid "><oxy:index-link href="#d30e2054" class="- index/link ">
+                  [d30e2054]
+                </oxy:index-link><oxy:index-link href="#d30e3715" class="- index/link ">
+                  [d30e3715]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="virtual appliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">virtual appliance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid184183253" value="deploy:virtual appliance:" class="- index/refid "><oxy:index-link href="#d30e2046" class="- index/link ">
+                  [d30e2046]
+                </oxy:index-link><oxy:index-link href="#d30e3707" class="- index/link ">
+                  [d30e3707]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">I</opentopic-index:label><opentopic-index:index.entry no-page="true" value="IBM Licence Tool Metric" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">IBM Licence Tool Metric
+                </opentopic-index:formatted-value><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="ILMT" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ILMT</opentopic-index:formatted-value></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry><opentopic-index:index.entry no-page="true" value="IBM StoredIQ Desktop Data Collector" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    IBM StoredIQ Desktop Data Collector
+                    </opentopic-index:formatted-value><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="desktop client" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">desktop client</opentopic-index:formatted-value></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">L</opentopic-index:label><opentopic-index:index.entry value="licenced programs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    licenced programs
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2114266110" value="licenced programs:" class="- index/refid "/><opentopic-index:index.entry value="descriptions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                        descriptions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1063367707" value="licenced programs:descriptions:" class="- index/refid "><oxy:index-link href="#d30e2024" class="- index/link ">
+                  [d30e2024]
+                </oxy:index-link><oxy:index-link href="#d30e3685" class="- index/link ">
+                  [d30e3685]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">O</opentopic-index:label><opentopic-index:index.entry no-page="true" value="Open Virtual Appliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">Open Virtual Appliance 
+                </opentopic-index:formatted-value><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="OVA" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">OVA</opentopic-index:formatted-value></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">R</opentopic-index:label><opentopic-index:index.entry no-page="true" value="Resource Value Unit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    Resource Value Unit
+                </opentopic-index:formatted-value><opentopic-index:see-childs class="- index/see-childs "><opentopic-index:index.entry value="RVU" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">RVU</opentopic-index:formatted-value></opentopic-index:index.entry></opentopic-index:see-childs></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">T</opentopic-index:label><opentopic-index:index.entry value="TCP" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                    TCP
+                    </opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2569369" value="TCP:" class="- index/refid "/><opentopic-index:index.entry value="port ranges" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">
+                        port ranges</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1112614558" value="TCP:port ranges:" class="- index/refid "><oxy:index-link href="#d30e2015" class="- index/link ">
+                  [d30e2015]
+                </oxy:index-link><oxy:index-link href="#d30e3676" class="- index/link ">
+                  [d30e3676]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>
