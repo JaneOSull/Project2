@@ -48,7 +48,7 @@
                 </section>
         <section>
             <title>Encryption of data at rest</title>
-            <p>Starting with IBM StoredIQ version 7.6.0.15, the disk volume on which the Elasticsearch indexes are
+            <p platform="linux">Starting with IBM StoredIQ version 7.6.0.15, the disk volume on which the Elasticsearch indexes are
                 stored is encrypted by default. IBM StoredIQ uses Linux Unified Key Setup (LUKS) for disk encryption. For
                 details about key management, see “Key and certificate management” on page 41.</p><!-- internal link -->
             <p>Optionally, you can encrypt the application data on the IBM StoredIQ application stack. For more

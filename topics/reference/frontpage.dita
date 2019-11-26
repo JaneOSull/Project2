@@ -8,22 +8,43 @@
             <copyryear year=""/>
             <copyryear year=""/>
             <copyrholder/>
-        </copyright>         
+        </copyright> 
+        <metadata>
+            <prodinfo conref="../../Project2.ditamap#pd1">
+                <prodname/>
+                <vrmlist>
+                    <vrm version=""/>
+                </vrmlist>
+            </prodinfo>
+        </metadata>
+      
+      
     </prolog>
+    
     <refbody>
+       
+
         <section>
             <title></title>
+            <fig>
+                <image conref="sources.dita#sources/logo"/>
+            </fig>
             <table>
                 <tgroup cols="1">
                     <tbody>
                         <row>
-                            <entry><note conkeyref="notes/n2"></note></entry>
+                            <entry><note conkeyref="notes/n2"/></entry>
                         </row>
                     </tbody>
                 </tgroup>
             </table>
-           
-            <p conkeyref="addresses/address1"/>
-        </section>
+            
+            <p>This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications
+                until otherwise indicated in new editions.</p>
+            <p>© Copyright International Business Machines Corporation 2001, 2019.</p>                
+            <p> US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with
+                IBM Corp.</p>
+   
+                   </section>
     </refbody>
 </reference>

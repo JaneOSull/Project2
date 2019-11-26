@@ -5,7 +5,7 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p>Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually.</p>
+            <p product="Microsoft Hyper-V">Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually.</p>
             <p>Consider the following instructions a sample procedure. The instructions might differ depending on the
                 version of the third-party software.</p>
             <p>Complete these steps for the gateway, the data server, and the AppStack:</p>
@@ -118,14 +118,9 @@
                 </substeps>
                
             </step>
-            <step>
-                <cmd>Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page
-                    22.</cmd>
-            </step>
             </steps>
-        <postreq>Complete the installation process by following the instructions in <xref
-                href="../reference/restofdocument.dita">“Configuring IBM StoredIQ” on page
-            22</xref>.</postreq>
+        <postreq>Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page
+            22.<!-- internal link to page 22 --></postreq>
     </taskbody>
     
 </task>

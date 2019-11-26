@@ -10,7 +10,7 @@
             of the source, and use case scenarios that drive application use and action execution.</p>
         <p>The general design guidelines for IBM StoredIQ are as follows:</p>
         <ul>
-            <li>For data servers of the type DataServer - Classic:<ul id="ul_eyh_cqf_5jb">
+            <li>For data servers of the type DataServer - Classic:<ul id="ul1">
                         <li>One data server for up to 30 TBs of data (which can vary based on the
                             number of volumes, objects per volume, and object types).</li>
                         <li>Up to 500 volumes per data server.<p><b>Tip:</b>When you're sizing an
@@ -33,17 +33,17 @@
             <li>A bytes/time metric is appropriate for metadata-only computing a hash and full-content processing.
             The object per second rate can vary tremendously depending on the object type and sizes encountered.
             For example, processing an email or file archive is much more expensive than a PDF document.</li>
-            <li>Metadata-only not computing a hash, membership in the NIST list, or enumerating objects that are
+            <li><p audience="novice">Metadata-only not computing a hash, membership in the NIST list, or enumerating objects that are
                 contained in archives is requesting only the file-attribute information from the NAS. Individual files are
                 not opened and read. The processing rate is high, but that does not translate into a large amount of data
                 that traverses a network between the NAS and data server. The bytes/time rate does not translate into
-                bytes served by the NAS and sent over the network.</li>
-            <li>Metadata-only computing a hash, membership in the NIST list, or enumerating objects that are
+                bytes served by the NAS and sent over the network.</p></li>
+            <li><p audience="expert">Metadata-only computing a hash, membership in the NIST list, or enumerating objects that are
                 contained in archives opens and reads the contents of each file. The content of all requested files
                 traverses the network between the NAS and data server. The maximum load that the data server can
                 place on a NAS is metadata-only processing. It requires all file content to be read to compute a hash or
                 enumerate objects that are contained in archives. The bytes/time rate translates into bytes served up
-                by the NAS and network traffic that must be considered.</li>
+                by the NAS and network traffic that must be considered.</p></li>
             <li>Full-content processing opens and reads the contents of each file to extract all text. The content of all
                 requested files traverses the network between the NAS and data server. The processing time to
                 enumerate archives, extract text, index words, and extract entities on the data server reduces the rate

@@ -2,39 +2,49 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="coversheet">
     <title>Cover Page</title>
-    <shortdesc></shortdesc>
-   
+<prolog>
+    <author>Jane O'Sullivan</author>
+    <critdates>
+        <created date="26/11/19"/>
+    </critdates>
+</prolog>
     <conbody>
-        <p>The following is the hierarchy used for this project</p>
-        <ul id="ul_qgs_vft_5jb">
-            <li>Project2<ul id="ul_yv5_xft_5jb">
-                    <li>resources<ul id="ul_myt_yft_5jb">
-                            <li>images</li>
-                            <li>pdfs</li>
-                        </ul></li>
-                    <li>topics<ul id="ul_oqk_bgt_5jb">
-                            <li>concepts</li>
-                            <li>references</li>
-                            <li>tasks</li>
-                            <li>glossary</li>
-                        </ul></li>
-                </ul></li>
-            <li>There are two maps:  the main map is Project2.ditamap</li>
-            <li>a secondary map called infomap.ditamap contains keys for conkeyref</li>
-            <li>a reference file called source.dita contains the conkeyref references</li>
-            <li>a reference file called restofdocument.dita is the destination file for internal
-                links where links occurred in the source document to pages we haven't
-                transcriped.</li>
-            <li>Images and notes were inserted using conkeyref.</li>
-            <li>another secondary map called indexmap.ditamap was created for Index Terms, linked to
-                    Project2.ditamap<ul id="ul_fhb_2lr_vjb">
-                    <li>conkeyref was used in the prolog in autoclassification.dita and licenceusagemetrics.dita to link to the
-                        index.</li>
-            <li>product metadata was added to the Project2.ditamap</li>
-                        <li>copyright metadata was added to sources.dita</li>
-                        
-                    
-                </ul></li>
-        </ul>
+        <p>The following is the hierarchy used for this project - Project2:</p>
+       <image conref="sources.dita#sources/hierarchy"></image>
+        <p>There are 3 maps:
+        <ul>
+            <li>the main map is Project2.ditamap</li>
+            <li>a secondary map called infomap.ditamap linked to Project2.ditamap contains
+                keys for conkeyref</li>
+            <li>another secondary map called indexmap.ditamap</li>
+        </ul></p>
+        <p>I broke the document down into small topics which I appended as children to the topichead in
+        order to facilitate reusability, unfortunately, this method had an impact on my ability to format the 
+        document as well as if I had added them as new sections and paragraphs - IBM Stored Administrator section</p>
+            <p>A  reference file called source.dita contains the conkeyref references</p>
+            <p>Images and notes were inserted using conkeyref.</p>
+            <p>Index: indexmap.ditamap was created for Index Terms, linked to Project2.ditamap</p>
+            <p>Conkeyref was used in the prolog in autoclassification.dita and
+                        licenceusagemetrics.dita to link to the index.</p>
+            <p> Product metadata was added to the Project2.ditamap, including the brand,
+                product name, number and revision</p>
+            <p>Copyright metadata was added to the prolog of
+                    sources.dita</p>
+                <p>For conditional processing, a new folder called conditional
+                    processing was created, with a subfolder called ditavals. A fitler file called
+                    myval.ditaval was created within this folder.</p> 
+                <p>Schemes were applied as
+                follows: <ol>
+                    <li>Filtering: In reference topic environmentalsizingguidelines.dita, I created
+                        a filter to exclude "Metadata-only not computing a hash" which I had set as
+                        expert. Running the transformation excluded this paragraph</li>
+                    <li>Flagging: I edited the products to include Microsoft Hyper-V and then
+                        flagged it to change the text colour in microsofthyperv.dita</li>
+                    <li>Flagging: I set the background colour to pale yellow for platform = windows
+                        in dataworkbench.dita </li>
+                    <li>Filtering: In Security.dita, I excluded a paragraph with platform = Linux in
+                        Encryption of Data at rest section</li>
+                </ol>
+                </p>   
     </conbody>
 </concept>

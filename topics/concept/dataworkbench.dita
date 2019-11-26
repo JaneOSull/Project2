@@ -30,7 +30,7 @@
             <li>You want to find all image files that are created in 2007. Not only can IBM StoredIQ Data Workbench
                 find all image files that were created in 2007. It also shows how much space they occupy on your
                 network.</li>
-            <li>A user needs to understand how data about Windows is being retained. Using IBM StoredIQ Data
+            <li platform="windows">A user needs to understand how data about Windows is being retained. Using IBM StoredIQ Data
                 Workbench, you can provide that user with a visual overview of the number of objects that are retained
                 and a breakdown of files per data source. Additionally, you can apply overlays to show the user if those
                 files contain forbidden information such as credit-card numbers or Social Security numbers.</li>

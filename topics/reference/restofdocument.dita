@@ -3,7 +3,12 @@
 <reference id="restofdocument">
     <title>Rest of Document</title>
     <shortdesc>This document is referred to when the original document required hyperlinks to pages we have not transcribed.</shortdesc>
-    <refbody> 
+    <refbody>
+        <section>
+            <title></title>
+            <p id="page73">Notices</p>
+            <p id="page45">Configuring SSH key-based authentication</p>
+        </section>
         
     </refbody>
 </reference>

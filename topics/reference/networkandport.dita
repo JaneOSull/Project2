@@ -35,8 +35,7 @@
                 (SSH) communication and allows remote administration access to the VM. In general,
                 traffic is encrypted using password authentication. To add a layer of security, you
                 can establish key-based authentication for passwordless SSH logins to any of the IBM
-                StoredIQ nodes in your environment as described in <xref href="restofdocument.dita"
-                    format="xml">“Configuring SSH key-based authentication” on page 45</xref>.</p>  <!-- hyperlink text to p.45 -->
+                StoredIQ nodes in your environment as described in “Configuring SSH key-based authentication” on page 45.</p>  <!-- hyperlink text to p.45 -->
         <sectiondiv>Default open ports on the AppStack</sectiondiv>
        <table colsep="1" rowsep="1" frame="all">
                 <tgroup cols="2" align="left">

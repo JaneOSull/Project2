@@ -2,7 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Information map</title>
-
+    
+    
  <keydef keys="images" href="./topics/reference/sources.dita"></keydef>
     
  <keydef keys="notes" href="./topics/reference/sources.dita"></keydef>
